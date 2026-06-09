@@ -40,9 +40,11 @@ Chunk size: About 700 characters
 
 Overlap: About 150 characters
 
+
+
 Reasoning:
 
-My documents are mostly short student reviews, not long official guides. I will split the text into chunks of about 700 characters with about 150 characters of overlap. This size should keep each review or related set of sentences readable while still being small enough for specific retrieval.
+My documents are student reviews, so I will use review-based chunking. Each review will usually become one chunk because each review already contains a complete student opinion with course, sentiment, and review text. If a review is longer than about 700 characters, I will split it into smaller chunks with about 150 characters of overlap. This keeps chunks readable and self-contained while preventing very long reviews from mixing too many ideas.
 
 The overlap helps if important information about exams, grading, or teaching style appears near the boundary between two chunks. If the chunks are too small, the system may retrieve fragments that do not fully explain the review. If the chunks are too large, the system may mix unrelated reviews about different courses or professors.
 

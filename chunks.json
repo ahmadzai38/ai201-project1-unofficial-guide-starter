@@ -1,0 +1,702 @@
+[
+  {
+    "id": "rmp_alex_ryba_chunk_0",
+    "source": "rmp_alex_ryba.txt",
+    "title": "Student reviews for Professor Alex Ryba",
+    "chunk_index": 0,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Alex Ryba\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/44623\n\nReview 1\nCourse: CSCI212\nSentiment: Mixed\nReview Text:\nDecent professor. Maybe attended 8 lectures, I deserved what I got. His exams contain lots of syntax. Quite hard to work with 1 on 1. Lectures were heavy and honestly a drag, but informative. Practice coding outside of the class and you'll get a great grade. Don't skip lab, it makes a pretty decent part of your grade. Not hard to pass at all."
+  },
+  {
+    "id": "rmp_alex_ryba_chunk_1",
+    "source": "rmp_alex_ryba.txt",
+    "title": "Student reviews for Professor Alex Ryba",
+    "chunk_index": 1,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Alex Ryba\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/44623\n\nReview 2\nCourse: CSCI212\nSentiment: Mixed\nReview Text:\nRated a 4 bc lectures are clear, lots of examples--BUT the info is a lot! A recurring pattern of putting in topics in the exams that are kind of glossed over/not prioritized in lab. Curves generously. Doesn't give much info abt the exams' contents, but there are practice problems."
+  },
+  {
+    "id": "rmp_alex_ryba_chunk_2",
+    "source": "rmp_alex_ryba.txt",
+    "title": "Student reviews for Professor Alex Ryba",
+    "chunk_index": 2,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Alex Ryba\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/44623\n\nReview 3\nCourse: CSCI331\nSentiment: Positive\nReview Text:\nTry not to take the early morning sections if you aren't a morning person! Nonetheless, this is the ideal course to learn and apply the knowledge of data structures! You'll need to regularly dedicate much practice for each concept as you'll never know when a quiz is looming around! The curveballs in exams truly test your problem solving and wit!"
+  },
+  {
+    "id": "rmp_alex_ryba_chunk_3",
+    "source": "rmp_alex_ryba.txt",
+    "title": "Student reviews for Professor Alex Ryba",
+    "chunk_index": 3,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Alex Ryba\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/44623\n\nReview 4\nCourse: CSCI111\nSentiment: Positive\nReview Text:\nProfessor Ryba is one of the best in Queens College, and the opportunity to start your knowledge here was an absolute pleasure! His lectures serve to introduce the overall concepts within Computer Science with C++ under the scope of iostream and the C standard lib. Theory alone won't get you a grade but problem solving and practicing syntax will."
+  },
+  {
+    "id": "rmp_alex_ryba_chunk_4",
+    "source": "rmp_alex_ryba.txt",
+    "title": "Student reviews for Professor Alex Ryba",
+    "chunk_index": 4,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Alex Ryba\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/44623\n\nReview 5\nCourse: CSCI320\nSentiment: Positive\nReview Text:\nAbsolutely the best, super nice and down to earth guy that is very knowledgeable about what he's teaching. He really seems to care about the students. I got a pretty mediocre score on the midterm, missed the second midterm, and did very good on the final and he gave me an A. He definitely notices your improvement and rewards you for it."
+  },
+  {
+    "id": "rmp_alex_ryba_chunk_5",
+    "source": "rmp_alex_ryba.txt",
+    "title": "Student reviews for Professor Alex Ryba",
+    "chunk_index": 5,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Alex Ryba\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/44623\n\nReview 6\nCourse: CSCI111\nSentiment: Positive\nReview Text:\nRyba's CS111 is no easy feat, but with diligent practice using his review packets and tools like unstuckstudy, you can master the basics and earn a solid grade. Lectures are informative, and the curve helps offset the challenge."
+  },
+  {
+    "id": "rmp_alex_ryba_chunk_6",
+    "source": "rmp_alex_ryba.txt",
+    "title": "Student reviews for Professor Alex Ryba",
+    "chunk_index": 6,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Alex Ryba\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/44623\n\nReview 7\nCourse: CSCI111\nSentiment: Positive\nReview Text:\nFirst time taking C++ after being scared about it but he explains everything really well. He only has 3 tests, but will replace your score if you fail on the first 2 exams but pass the final. Tests are a LOT harder than what he goes over in class. Curve carries your grade. I got a 19/30 (63.33%) on the final, yet I passed the class with an A."
+  },
+  {
+    "id": "rmp_alex_ryba_chunk_7",
+    "source": "rmp_alex_ryba.txt",
+    "title": "Student reviews for Professor Alex Ryba",
+    "chunk_index": 7,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Alex Ryba\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/44623\n\nReview 8\nCourse: CSCI111\nSentiment: Positive\nReview Text:\nDr.Ryba is a fantastic lecturer, who made use of many \"real world\" examples throughout his classes to solidify concepts. Attendance is not mandatory, he records the lectures and posts them all online.Ultimately, to do well in this course, do many problems which he provides from past exams. practice problems are your key to the A."
+  },
+  {
+    "id": "rmp_alex_ryba_chunk_8",
+    "source": "rmp_alex_ryba.txt",
+    "title": "Student reviews for Professor Alex Ryba",
+    "chunk_index": 8,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Alex Ryba\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/44623\n\nReview 9\nCourse: CSCI111\nSentiment: Positive\nReview Text:\nReally good teacher. This class can be taken online or in person. Attendance is not mandatory and he posts recording of the class. Easy to understand as a first time coder in C++. i recommend to take him. Fun and chill guy. The textbook is around 30 but there is free pdf online. 10/10 professor!"
+  },
+  {
+    "id": "rmp_alex_ryba_chunk_9",
+    "source": "rmp_alex_ryba.txt",
+    "title": "Student reviews for Professor Alex Ryba",
+    "chunk_index": 9,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Alex Ryba\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/44623\n\nReview 10\nCourse: CSCI111\nSentiment: Negative\nReview Text:\nHe isn't as good as previous reviews state. He is too lazy to go after cheaters which according to him made up over half of the class. That made the curve smaller cause cheaters would score higher. Lectures are the most basic uses of the c++ language while tests are much more complex. Offers no help when asked as he says your lab professor should."
+  },
+  {
+    "id": "rmp_anne_smith_thompson_chunk_0",
+    "source": "rmp_anne_smith_thompson.txt",
+    "title": "Student reviews for Professor Anne Smith-Thompson",
+    "chunk_index": 0,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Anne Smith-Thompson\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/352320\n\nReview 1\nCourse: CSCI316\nSentiment: Positive\nReview Text:\nI failed both Kong and Tao. They were both awful professors—very mean and insincere. Then I took Anne. I attended every class and put effort into all my assignments and quizzes. Everything was based on what we learned. She's a bit disorganized and grades things late, but she's one of the sweetest women ever."
+  },
+  {
+    "id": "rmp_anne_smith_thompson_chunk_1",
+    "source": "rmp_anne_smith_thompson.txt",
+    "title": "Student reviews for Professor Anne Smith-Thompson",
+    "chunk_index": 1,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Anne Smith-Thompson\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/352320\n\nReview 2\nCourse: CSCI340\nSentiment: Negative\nReview Text:\nShe cant teach at all. The part where she goes on tangents is true and she gets mad if you try to reach out to her after hours. You arerelying on zybooks and sheer luck to know anything on her exams as she doesn't do proper review for her classes(except maybe 316). She doesn't even post class notes or recordings on time."
+  },
+  {
+    "id": "rmp_anne_smith_thompson_chunk_2",
+    "source": "rmp_anne_smith_thompson.txt",
+    "title": "Student reviews for Professor Anne Smith-Thompson",
+    "chunk_index": 2,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Anne Smith-Thompson\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/352320\n\nReview 3\nCourse: CSCI343\nSentiment: Positive\nReview Text:\nProf Thompson is one of the best CS professors in QC. She is caring and always willing to help once you show that your putting in the work. Go to class, take notes, study and you will be fine. She gives a quiz every week which helps keep you on top of things. She give extra credit points for stuff. She's not out here just trying to fail people."
+  },
+  {
+    "id": "rmp_anne_smith_thompson_chunk_3",
+    "source": "rmp_anne_smith_thompson.txt",
+    "title": "Student reviews for Professor Anne Smith-Thompson",
+    "chunk_index": 3,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Anne Smith-Thompson\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/352320\n\nReview 4\nCourse: CSCI313\nSentiment: Negative\nReview Text:\nShe is insufferable, expects students to know the material beforehand, cancels classes frequently, and is super slow to grade. Her teaching is poor, yet her exams are overly difficult. Take her only if you already know the subject."
+  },
+  {
+    "id": "rmp_anne_smith_thompson_chunk_4",
+    "source": "rmp_anne_smith_thompson.txt",
+    "title": "Student reviews for Professor Anne Smith-Thompson",
+    "chunk_index": 4,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Anne Smith-Thompson\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/352320\n\nReview 5\nCourse: CSCI313\nSentiment: Negative\nReview Text:\nShe is super unorganized and will make your life HELL. She barely taught the basics in the class and midterm was so hard. It was nothing like stuff we learned in the class. She's so unfair. Makes classes asynchronous every week says recordings will be posted and then never posts the recordings for it. UNFAIIIRRR."
+  },
+  {
+    "id": "rmp_anne_smith_thompson_chunk_5",
+    "source": "rmp_anne_smith_thompson.txt",
+    "title": "Student reviews for Professor Anne Smith-Thompson",
+    "chunk_index": 5,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Anne Smith-Thompson\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/352320\n\nReview 6\nCourse: CSCI343\nSentiment: Mixed\nReview Text:\nAverage professor: many quizzes, difficult tests, and her personality is somewhat abrasive. She cares and wants you to pass though, She holds a lot of review lectures outside of class. She does require you to pay for Zybooks for homework though. Just do all the work assigned in a timely manner and take the class very seriously."
+  },
+  {
+    "id": "rmp_anne_smith_thompson_chunk_6",
+    "source": "rmp_anne_smith_thompson.txt",
+    "title": "Student reviews for Professor Anne Smith-Thompson",
+    "chunk_index": 6,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Anne Smith-Thompson\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/352320\n\nReview 7\nCourse: CSCI340\nSentiment: Negative\nReview Text:\nAnne does go off topic but not as frequently as many say. Class is very chaotic and she'll frequently cancel class at the last minute. Takes FOREVER to post grades for anything. Doesn't respond to emails and generally seems very apathetic towards the class. Perfect representation of the CS department for a joke of an institution like QC."
+  },
+  {
+    "id": "rmp_anne_smith_thompson_chunk_7",
+    "source": "rmp_anne_smith_thompson.txt",
+    "title": "Student reviews for Professor Anne Smith-Thompson",
+    "chunk_index": 7,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Anne Smith-Thompson\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/352320\n\nReview 8\nCourse: CSCI340\nSentiment: Mixed\nReview Text:\nWhile she does go on tangents a lot, it usually relates to the material. You will likely have to learn from the textbook though. Her exams are definitely not too hard if you put in the work. She can be kind of harsh grading the programming assignments though. She is generally nice but can be a bit mean if the class didnt do well on the exam."
+  },
+  {
+    "id": "rmp_anne_smith_thompson_chunk_8",
+    "source": "rmp_anne_smith_thompson.txt",
+    "title": "Student reviews for Professor Anne Smith-Thompson",
+    "chunk_index": 8,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Anne Smith-Thompson\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/352320\n\nReview 9\nCourse: CSCI343\nSentiment: Positive\nReview Text:\nMake sure you listen a LOT to what professor says in class. She will test you heavily on what she goes over more frequently in class. Then, read the textbook chapter of the specific topic you went over in class. Go to office hours and ask specific questions on what to go over before a test, and go over topics you struggle with in office hours."
+  },
+  {
+    "id": "rmp_anne_smith_thompson_chunk_9",
+    "source": "rmp_anne_smith_thompson.txt",
+    "title": "Student reviews for Professor Anne Smith-Thompson",
+    "chunk_index": 9,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Anne Smith-Thompson\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/352320\n\nReview 10\nCourse: CSCI343\nSentiment: Mixed\nReview Text:\nProfessor Anne was ok, I didnt really learn much and she never showed up to class however she is very nice and even though I failed half the quizzes hard, she told us what would be on the final and the final itself was a copy paste of the quizzes with a curve and I got a 95 on the final somehow. I ended up with a B, Easy to pass but wont learn."
+  },
+  {
+    "id": "rmp_bojana_obrenic_chunk_0",
+    "source": "rmp_bojana_obrenic.txt",
+    "title": "Student reviews for Professor Bojana Obrenic",
+    "chunk_index": 0,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Bojana Obrenic\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/249702\n\nReview 1\nCourse: CSCI320\nSentiment: Positive\nReview Text:\nShe has a good curve for tests. As long as you practice questions from her problem book and learn on ur own or by going to her lectures, you will be good. Her problem book serves as an example of how her exams look like. She even puts extra questions on exam for a better chance at passing. Waaaay better than Boklan, for passing the course."
+  },
+  {
+    "id": "rmp_bojana_obrenic_chunk_1",
+    "source": "rmp_bojana_obrenic.txt",
+    "title": "Student reviews for Professor Bojana Obrenic",
+    "chunk_index": 1,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Bojana Obrenic\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/249702\n\nReview 2\nCourse: CSCI320\nSentiment: Positive\nReview Text:\nShe is nice. She is caring and is considerate of students. Go to class, participate, and you will learn a lot. Just relying upon previous professors' reviews is not enough. Review materials can be enough to pass, but for A, you have to work for it. Best of 2 exams. She gives a lot of extra credits, seriously, a lot. Go to class, and you will learn."
+  },
+  {
+    "id": "rmp_bojana_obrenic_chunk_2",
+    "source": "rmp_bojana_obrenic.txt",
+    "title": "Student reviews for Professor Bojana Obrenic",
+    "chunk_index": 2,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Bojana Obrenic\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/249702\n\nReview 3\nCourse: CSCI320\nSentiment: Mixed\nReview Text:\nIf you do well on midterm 1 and midterm 2 , you dont need to take the final. I wind up taking final which you need at least a 60 to be consider passing her class. I took her during the summer. Exam 1 is regular expression, godel numbers, dfa, ndfa, telescoping and cfg Exam 2 is Pump Lemma, Turing Machine and exam 1 stuff Final is exam 1&2."
+  },
+  {
+    "id": "rmp_bojana_obrenic_chunk_3",
+    "source": "rmp_bojana_obrenic.txt",
+    "title": "Student reviews for Professor Bojana Obrenic",
+    "chunk_index": 3,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Bojana Obrenic\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/249702\n\nReview 4\nCourse: CSCI320\nSentiment: Positive\nReview Text:\n320 can be difficult but with her curve (taking the higher 2 out of the 3 exams & only 40 pts is a C) she is VERY passable. So many resources out there as others have said, legit do the problem book and ur good! Is very tough-love, always says “she'll beat you up if your answer is garbage”, but means well & is entertaining! Truly the canon choice."
+  },
+  {
+    "id": "rmp_bojana_obrenic_chunk_4",
+    "source": "rmp_bojana_obrenic.txt",
+    "title": "Student reviews for Professor Bojana Obrenic",
+    "chunk_index": 4,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Bojana Obrenic\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/249702\n\nReview 5\nCourse: CSCI320\nSentiment: Positive\nReview Text:\nProfessor Obrenic is undoubtedly the funniest professor in QC history. If you take the time to go to her lectures and get beaten up (iykyk), you'll have a great time and it will make the exams easier. The exams are difficult by time constraint, but they are more than studyable. The bar for a C is also quite low (80 point sum between 2 exams)."
+  },
+  {
+    "id": "rmp_bojana_obrenic_chunk_5",
+    "source": "rmp_bojana_obrenic.txt",
+    "title": "Student reviews for Professor Bojana Obrenic",
+    "chunk_index": 5,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Bojana Obrenic\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/249702\n\nReview 6\nCourse: CSCI331\nSentiment: Mixed\nReview Text:\nSimilar style lectures to her 320. More problem solving tests. Same super generous grading scale. If you liked her 320, you'll like her 331. If you didn't like her 320, don't take 331. A lot of theory, but also heavy in SQL, datalog, relational algebra. My only warning is that if you relied on Clint for 320, you don't have that clutch anymore."
+  },
+  {
+    "id": "rmp_bojana_obrenic_chunk_6",
+    "source": "rmp_bojana_obrenic.txt",
+    "title": "Student reviews for Professor Bojana Obrenic",
+    "chunk_index": 6,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Bojana Obrenic\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/249702\n\nReview 7\nCourse: CSCI320\nSentiment: Negative\nReview Text:\nI graduated a while ago. Looking back, this is the worst prof I've ever had in my entire life. Every where I went to complain about her, they knew her by name, even before I say her name, and they would just tell me that lots of students complain about her regularly. Yet nobody holds her accountable. She has to be investigated! Easy pass though."
+  },
+  {
+    "id": "rmp_bojana_obrenic_chunk_7",
+    "source": "rmp_bojana_obrenic.txt",
+    "title": "Student reviews for Professor Bojana Obrenic",
+    "chunk_index": 7,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Bojana Obrenic\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/249702\n\nReview 8\nCourse: CSCI320\nSentiment: Mixed\nReview Text:\n2nd best option for 320 besides Ryba. Graded off 3 exams, have to average a 40 for a C. Exam problems are very unintuitive and require Clint videos for guidance on how to approach them. Go to one of the CS club discords and join the 320 server to watch his vids. Without him exams are borderline impossible. Her lectures are entirely useless as well."
+  },
+  {
+    "id": "rmp_bojana_obrenic_chunk_8",
+    "source": "rmp_bojana_obrenic.txt",
+    "title": "Student reviews for Professor Bojana Obrenic",
+    "chunk_index": 8,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Bojana Obrenic\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/249702\n\nReview 9\nCourse: CSCI320\nSentiment: Positive\nReview Text:\nGrading criteria is generous. I did well on my first tests, skipped the final and still got A+. Idk why people decide to skip class and only watch Clint's videos; do both and everything will be clear She gives no HW and has a problem book of every exam question she's ever given. EC opportunities. Most fascinating lectures at QC. Can be abrasive."
+  },
+  {
+    "id": "rmp_bojana_obrenic_chunk_9",
+    "source": "rmp_bojana_obrenic.txt",
+    "title": "Student reviews for Professor Bojana Obrenic",
+    "chunk_index": 9,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Bojana Obrenic\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/249702\n\nReview 10\nCourse: CSCI320\nSentiment: Negative\nReview Text:\nonly positive thing was the simple grading criteria- 3 tests with the lowest dropped. The course is EASY and USELESS. Terrible attitude when someone asks a question (she refuses to answer and only asks if theres a mistake with what she wrote), she tries to be funny but is only successful 5% of the time. And the worst is her handwriting, unreadable"
+  },
+  {
+    "id": "rmp_jackson_yeh_chunk_0",
+    "source": "rmp_jackson_yeh.txt",
+    "title": "Student reviews for Professor Jackson Yeh",
+    "chunk_index": 0,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Jackson Yeh\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/1082596\n\nReview 1\nCourse: CSCI240\nSentiment: Positive\nReview Text:\n2 quizzes you can do multiple times to get 100%, a midterm and final, and a Logisim project, which he goes over in class. Very straightforward teaching; good examples to practice during class. The content can be difficult even if it's online; you definitely should take notes (exams are open-book). Wants students to do well and participate."
+  },
+  {
+    "id": "rmp_jackson_yeh_chunk_1",
+    "source": "rmp_jackson_yeh.txt",
+    "title": "Student reviews for Professor Jackson Yeh",
+    "chunk_index": 1,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Jackson Yeh\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/1082596\n\nReview 2\nCourse: CSCI240\nSentiment: Positive\nReview Text:\nTook him for 4 week summer which is VERY accelerated. Open notes midterm and final. Circuit project we did 80% together so that was free 100. Advice: BRUSH UP ON UR BINARY. It's used the whole class and he speeds through it. His lectures are too fast to write everything down in a notebook (I tried) so I suggest just taking notes on the pdf itself."
+  },
+  {
+    "id": "rmp_jackson_yeh_chunk_2",
+    "source": "rmp_jackson_yeh.txt",
+    "title": "Student reviews for Professor Jackson Yeh",
+    "chunk_index": 2,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Jackson Yeh\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/1082596\n\nReview 3\nCourse: CSCI240\nSentiment: Positive\nReview Text:\nThe class is online. Dr. Yeh records all lectures and posts them so you can rewatch them if you miss class. Try your best not to fall back as concepts tend to build upon one another. Overall, class not too difficult as the exams/quizzes are online. Hardest part is the project in logisim. Otherwise, he is the best choice for 240 at QC, hands down."
+  },
+  {
+    "id": "rmp_jackson_yeh_chunk_3",
+    "source": "rmp_jackson_yeh.txt",
+    "title": "Student reviews for Professor Jackson Yeh",
+    "chunk_index": 3,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Jackson Yeh\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/1082596\n\nReview 4\nCourse: CSCI240\nSentiment: Positive\nReview Text:\nProfessor Yeh, the goat. Just take his class. He has two exams (midterm and final), both open-book and online, and the circuit project is manageable. His lectures are recorded. Reviews say he is rude, but he was never rude, people are just soft. A chill professor and one of the best in the QC CS dept. I know people struggling with other professors."
+  },
+  {
+    "id": "rmp_jackson_yeh_chunk_4",
+    "source": "rmp_jackson_yeh.txt",
+    "title": "Student reviews for Professor Jackson Yeh",
+    "chunk_index": 4,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Jackson Yeh\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/1082596\n\nReview 5\nCourse: CSCI240\nSentiment: Positive\nReview Text:\nhe's really good for the class, except with MIPS because its harder. does not respond to emails, but his lectures are clear. the project is very easy, and he explains everything so well!! The midterm was a joke (just on the first chapter), the final is a bit more difficult, but everything is online and he lets you use your notes"
+  },
+  {
+    "id": "rmp_jackson_yeh_chunk_5",
+    "source": "rmp_jackson_yeh.txt",
+    "title": "Student reviews for Professor Jackson Yeh",
+    "chunk_index": 5,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Jackson Yeh\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/1082596\n\nReview 6\nCourse: CSCI240\nSentiment: Negative\nReview Text:\nOverrated instructor who does his job in ways that are most convenient to himself. Students' learning comes secondary. Some students happen to benefit from it and most are hurt. No wonder everyone had such a rude awakening looking at their exam results. Nonetheless, he's still better than most of the other CS instructors."
+  },
+  {
+    "id": "rmp_jackson_yeh_chunk_6",
+    "source": "rmp_jackson_yeh.txt",
+    "title": "Student reviews for Professor Jackson Yeh",
+    "chunk_index": 6,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Jackson Yeh\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/1082596\n\nReview 7\nCourse: CSCI240\nSentiment: Positive\nReview Text:\nThere is a curve on the overall grade. Textbook is not needed to do well. Recordings are enough to help understand the material. Very lenient on project deadlines. Clarifies unclear material & answers question very well during class. At times he takes a while to respond to emails or does not at all respond to them. He can be sarcastic & humorous"
+  },
+  {
+    "id": "rmp_jackson_yeh_chunk_7",
+    "source": "rmp_jackson_yeh.txt",
+    "title": "Student reviews for Professor Jackson Yeh",
+    "chunk_index": 7,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Jackson Yeh\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/1082596\n\nReview 8\nCourse: CSCI240\nSentiment: Positive\nReview Text:\nGREAT PROFFESOR!! Just don't do any funny bussiness during the exams like no cams during exams or being buck naked. 2 exams, 2 quizzes and a project. For the summer class I took, he waived the project because it was just a 4 week course. Easy A if you study the class slides."
+  },
+  {
+    "id": "rmp_jackson_yeh_chunk_8",
+    "source": "rmp_jackson_yeh.txt",
+    "title": "Student reviews for Professor Jackson Yeh",
+    "chunk_index": 8,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Jackson Yeh\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/1082596\n\nReview 9\nCourse: CSCI240\nSentiment: Positive\nReview Text:\nCan't say anything more about this professor other than the fact that he is the GOAT. He is the best option for 240, especially during the summer, and he teaches in a way that is very easy to understand. He also records lectures and the exams were pretty fair. One of the only good CS professors in the department, could never ask for more."
+  },
+  {
+    "id": "rmp_jackson_yeh_chunk_9",
+    "source": "rmp_jackson_yeh.txt",
+    "title": "Student reviews for Professor Jackson Yeh",
+    "chunk_index": 9,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Jackson Yeh\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/1082596\n\nReview 10\nCourse: CSCI240\nSentiment: Positive\nReview Text:\nIs very clear during lectures and has a clear grading criteria. Two exams, one project, and quizzes (free grade). He records lectures so participation doesn't matter however you should still make sure you're not behind or else you'll struggle. Exams were moderate. Overall, a decent professor who can teach properly!"
+  },
+  {
+    "id": "rmp_jerry_waxman_chunk_0",
+    "source": "rmp_jerry_waxman.txt",
+    "title": "Student reviews for Professor Jerry Waxman",
+    "chunk_index": 0,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Jerry Waxman\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/287312\n\nReview 1\nCourse: CSCI211\nSentiment: Positive\nReview Text:\nWent to ~60% of lectures, attended lab only for quizzes, went to the final 80 minutes late. Got an A. Amazing professor, fantastic lecturing ability. Content may be difficult, but most enlightening. Do projects by yourself, use ai only to teach you concepts. Attending, participating, and meditating on the concepts will get you mastery of C++."
+  },
+  {
+    "id": "rmp_jerry_waxman_chunk_1",
+    "source": "rmp_jerry_waxman.txt",
+    "title": "Student reviews for Professor Jerry Waxman",
+    "chunk_index": 1,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Jerry Waxman\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/287312\n\nReview 2\nCourse: CSCI381\nSentiment: Positive\nReview Text:\nYou do not take this professor for a grade, you seek his teachings through this course to LEARN. I've long graduated, yet many of his core teachings have not left me. You are part of the best of the best Prof! Thank you for making such a cognitively difficult and overloaded course so enjoyable and memorable!"
+  },
+  {
+    "id": "rmp_jerry_waxman_chunk_2",
+    "source": "rmp_jerry_waxman.txt",
+    "title": "Student reviews for Professor Jerry Waxman",
+    "chunk_index": 2,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Jerry Waxman\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/287312\n\nReview 3\nCourse: CSCI211\nSentiment: Positive\nReview Text:\nHe is a good prof. He will answer all your questions if you ask him. Some students get low grades because they don't attend his class or don't review their notebooks. You should listen carefully and take notes, it will be helpful for exams. He curves based on the class average. I recommend taking his class."
+  },
+  {
+    "id": "rmp_jerry_waxman_chunk_3",
+    "source": "rmp_jerry_waxman.txt",
+    "title": "Student reviews for Professor Jerry Waxman",
+    "chunk_index": 3,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Jerry Waxman\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/287312\n\nReview 4\nCourse: CSCI211\nSentiment: Positive\nReview Text:\nI never went to labs so I got a B. His exams were trivial, i.e. you should have no problems if you did the work. Waxman himself is actually reasonable and nice, it's that he's seen so much BS from students over the years. Just do the work and it's an easy A+. If not, lock in because CS gets much harder than this."
+  },
+  {
+    "id": "rmp_jerry_waxman_chunk_4",
+    "source": "rmp_jerry_waxman.txt",
+    "title": "Student reviews for Professor Jerry Waxman",
+    "chunk_index": 4,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Jerry Waxman\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/287312\n\nReview 5\nCourse: CSCI211\nSentiment: Negative\nReview Text:\nI took his class in the fall, and the experience was very difficult. His handwriting was hard to read, and no technology was allowed. If a phone was used, he would stop the lecture to address it. I found it easier to learn the material on my own. I would not recommend this class if GPA is a concern."
+  },
+  {
+    "id": "rmp_jerry_waxman_chunk_5",
+    "source": "rmp_jerry_waxman.txt",
+    "title": "Student reviews for Professor Jerry Waxman",
+    "chunk_index": 5,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Jerry Waxman\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/287312\n\nReview 6\nCourse: CSCI211\nSentiment: Mixed\nReview Text:\nWaxman is a charismatic guy but his explanations can be overly complex sometimes. He gives a vague idea about what would be on his tests but they're moderately difficult since all you have to really do is remember the projects. His curves ease the stress and his tests are mainly fill in the blanks or “enter the output” questions."
+  },
+  {
+    "id": "rmp_jerry_waxman_chunk_6",
+    "source": "rmp_jerry_waxman.txt",
+    "title": "Student reviews for Professor Jerry Waxman",
+    "chunk_index": 6,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Jerry Waxman\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/287312\n\nReview 7\nCourse: CSCI211\nSentiment: Negative\nReview Text:\nWorst experience in QC, you won't learn anything besides memorizing projects. Waxman loves to gatekeep what is on the test and will make his exams as hard as possible to the point where his curves can't even save you. Learned more from 211 review sessions that weren't even from him than all his lectures combined. Please avoid him and his textbooks."
+  },
+  {
+    "id": "rmp_jerry_waxman_chunk_7",
+    "source": "rmp_jerry_waxman.txt",
+    "title": "Student reviews for Professor Jerry Waxman",
+    "chunk_index": 7,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Jerry Waxman\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/287312\n\nReview 8\nCourse: CSCI211\nSentiment: Mixed\nReview Text:\nWaxman gets a bad rep, but honestly 211 is more of a weed out class. At the end of each test, we were given a graph that shows how well you did and more than 60% of the class did so bad, which ends up helping you cause he gives a massive curve. Currently taking 300 level courses, and there are people who still don't know how to create Classes."
+  },
+  {
+    "id": "rmp_jerry_waxman_chunk_8",
+    "source": "rmp_jerry_waxman.txt",
+    "title": "Student reviews for Professor Jerry Waxman",
+    "chunk_index": 8,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Jerry Waxman\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/287312\n\nReview 9\nCourse: CSCI211\nSentiment: Negative\nReview Text:\nwas surprised we weren't allowed to use our computer or any electronics. His lectures were okay, it didn't help me, tho. You have to buy the textbook to take your notes, and his review was so-so. The exams were mostly writing, then coding. There were unexpected questions in his exams; he has a big curve, but I will not take his class again."
+  },
+  {
+    "id": "rmp_jerry_waxman_chunk_9",
+    "source": "rmp_jerry_waxman.txt",
+    "title": "Student reviews for Professor Jerry Waxman",
+    "chunk_index": 9,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Jerry Waxman\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/287312\n\nReview 10\nCourse: CSCI211\nSentiment: Mixed\nReview Text:\nIt's hard to hear him unless you sit up close. The class isn't OOP until last class and it's mostly thinking how to program. If you like coding, this isn't a bad class but take someone else if you want true OOP. 1 hard exam, 1 easy exam, curved into Narnia. 40% for lab. If you're not getting at least a B+ you're trolling."
+  },
+  {
+    "id": "rmp_kenneth_lord_chunk_0",
+    "source": "rmp_kenneth_lord.txt",
+    "title": "Student reviews for Professor Kenneth Lord",
+    "chunk_index": 0,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Kenneth Lord\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/100358\n\nReview 1\nCourse: CSCI212\nSentiment: Positive\nReview Text:\nBest option for 212. Easy exams if you do the review he posts up. Easy final. Projects are alright, just don't fall behind on the concepts. He is a professor who gets the job done. You have to be super slow to get below a B in this class. Just study and keep up with the concepts - like maybe 2/3 hours a week of studying, you'll get an A."
+  },
+  {
+    "id": "rmp_kenneth_lord_chunk_1",
+    "source": "rmp_kenneth_lord.txt",
+    "title": "Student reviews for Professor Kenneth Lord",
+    "chunk_index": 1,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Kenneth Lord\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/100358\n\nReview 2\nCourse: CSCI212\nSentiment: Mixed\nReview Text:\nAlright, my man right here will answer any question in lectures but is sooo boring and makes you feel like you shouldn't even ask questions in the first place, thats how uninterested this guy is in the class. Other than that he straight ig, not really a mean guy. Let's say out of 150 seats only 40 seats were filled each class since most didn't show"
+  },
+  {
+    "id": "rmp_kenneth_lord_chunk_2",
+    "source": "rmp_kenneth_lord.txt",
+    "title": "Student reviews for Professor Kenneth Lord",
+    "chunk_index": 2,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Kenneth Lord\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/100358\n\nReview 3\nCourse: CSCI212\nSentiment: Positive\nReview Text:\nThe lectures can be dry, but the content and exams are manageable. Take advantage of the lab TAs - they're really helpful for the projects. unstuck ai was a great study tool too. Overall, it's a solid class if you stay engaged."
+  },
+  {
+    "id": "rmp_kenneth_lord_chunk_3",
+    "source": "rmp_kenneth_lord.txt",
+    "title": "Student reviews for Professor Kenneth Lord",
+    "chunk_index": 3,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Kenneth Lord\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/100358\n\nReview 4\nCourse: CSCI212\nSentiment: Negative\nReview Text:\nImma be so honest here when it comes to his lectures, he literally reads off the slides so BE prepared to do a lot of self-studying on your own. I personally feel like I didn't learn much in this class. I would also note that he is project heavy, with a total of 5 to do over the semester. Good luck!"
+  },
+  {
+    "id": "rmp_kenneth_lord_chunk_4",
+    "source": "rmp_kenneth_lord.txt",
+    "title": "Student reviews for Professor Kenneth Lord",
+    "chunk_index": 4,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Kenneth Lord\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/100358\n\nReview 5\nCourse: CSCI212\nSentiment: Negative\nReview Text:\nProfessor Lord is a terrible professor who seems more interested in clocking in and out than actually teaching. He shows no concern for his students, often ignoring their questions or dismissing their concerns. he also has a rude attitude. It's clear he doesn't prioritize his role as an educator. kinda shows how low funded the CS dept is."
+  },
+  {
+    "id": "rmp_kenneth_lord_chunk_5",
+    "source": "rmp_kenneth_lord.txt",
+    "title": "Student reviews for Professor Kenneth Lord",
+    "chunk_index": 5,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Kenneth Lord\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/100358\n\nReview 6\nCourse: CSCI212\nSentiment: Positive\nReview Text:\nIn my opinion, he actually teaches well and his lectures are helpful for the projects. Class is consist of 2 midterms, 5 projects and 1 final. The final is consist of 40 MC questions. Overall there is nothing much to say about this class since its almost similar to CS111 but Java and Object Oriented Programming. Overall, the class is very easy."
+  },
+  {
+    "id": "rmp_kenneth_lord_chunk_6",
+    "source": "rmp_kenneth_lord.txt",
+    "title": "Student reviews for Professor Kenneth Lord",
+    "chunk_index": 6,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Kenneth Lord\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/100358\n\nReview 7\nCourse: CSCI212\nSentiment: Mixed\nReview Text:\nProfessor Kenneth Lord is a great person. In CSCI 212 class, lecture slides are old style and he change the question in each exams every year and make it little hard and he change the projects every year and make a hard as well and in final exam I get 40 MCQ Questions and in final exam he change few questions."
+  },
+  {
+    "id": "rmp_kenneth_lord_chunk_7",
+    "source": "rmp_kenneth_lord.txt",
+    "title": "Student reviews for Professor Kenneth Lord",
+    "chunk_index": 7,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Kenneth Lord\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/100358\n\nReview 8\nCourse: CSCI212\nSentiment: Mixed\nReview Text:\nProfessor Lord was lecture heavy and I had to self study a lot of topics. Although he did explain very well. The exams aren't curved and I could say he grades a bit harsh but nothing crazy, the class is passable. I studied my butt off for his midterm 1 and 2 and his final and got all A's on my projects. His projects can be difficult and unclear."
+  },
+  {
+    "id": "rmp_kenneth_lord_chunk_8",
+    "source": "rmp_kenneth_lord.txt",
+    "title": "Student reviews for Professor Kenneth Lord",
+    "chunk_index": 8,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Kenneth Lord\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/100358\n\nReview 9\nCourse: CSCI212\nSentiment: Mixed\nReview Text:\nProfessor Kenneth Lord is a great person. In CSCI 212 class, lecture slides are old style and he change the question in each exams every year and make it little hard and he change the projects every year and make a hard as well and in final exam I get 40 MCQ Questions and in final exam he change few questions. I had 2 exams and one final & project."
+  },
+  {
+    "id": "rmp_kenneth_lord_chunk_9",
+    "source": "rmp_kenneth_lord.txt",
+    "title": "Student reviews for Professor Kenneth Lord",
+    "chunk_index": 9,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Kenneth Lord\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/100358\n\nReview 10\nCourse: CSCI212\nSentiment: Mixed\nReview Text:\nLord is an okay professor. His lectures aren't helpful. I barely attended class and relied on YouTube (BroCode). The class is project-heavy, with hard projects and unclear instructions. Practice exams are nearly identical to actual tests, with one different question, and a similar concept tho. He grades exams himself and harshly. Lord > Steinberg"
+  },
+  {
+    "id": "rmp_md_mahbubur_rahman_chunk_0",
+    "source": "rmp_md_mahbubur_rahman.txt",
+    "title": "Student reviews for Professor Md Mahbubur Rahman",
+    "chunk_index": 0,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Md Mahbubur Rahman\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/2649371\n\nReview 1\nCourse: CSCI381\nSentiment: Positive\nReview Text:\nI ended up with an A in this class. The grading is heavy on tests, make up about 80% of your final grade but the exams are completely fair and don't try to trick you. The rest of the workload is very manageable, consisting of just 2 individual homework assignments and 2 presentations throughout the semester."
+  },
+  {
+    "id": "rmp_md_mahbubur_rahman_chunk_1",
+    "source": "rmp_md_mahbubur_rahman.txt",
+    "title": "Student reviews for Professor Md Mahbubur Rahman",
+    "chunk_index": 1,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Md Mahbubur Rahman\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/2649371\n\nReview 2\nCourse: CSCI343\nSentiment: Mixed\nReview Text:\nHe is actually a nice person, but the lectures are boring imo. CS343 is a VERY HARD course so you have to have at least 9 hours of studying a week to do well(read the slides/zybooks and create flashcards) The homework is actually manageable and easy. As far as grading go, it is very strict so study a lot and check your work before you hand the exam"
+  },
+  {
+    "id": "rmp_md_mahbubur_rahman_chunk_2",
+    "source": "rmp_md_mahbubur_rahman.txt",
+    "title": "Student reviews for Professor Md Mahbubur Rahman",
+    "chunk_index": 2,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Md Mahbubur Rahman\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/2649371\n\nReview 3\nCourse: CSCI381\nSentiment: Positive\nReview Text:\nTook his Wireless Signals 381 and was expecting him to live up to his notoriously bad reputation but honestly, not bad at all. Grade consist of two midterms, group project, group presentations, and homework, very manageable. In lecture he is very quiet but his slides provide lots of useful information. Study hard and you will pass his class."
+  },
+  {
+    "id": "rmp_md_mahbubur_rahman_chunk_3",
+    "source": "rmp_md_mahbubur_rahman.txt",
+    "title": "Student reviews for Professor Md Mahbubur Rahman",
+    "chunk_index": 3,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Md Mahbubur Rahman\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/2649371\n\nReview 4\nCourse: CSCI343\nSentiment: Negative\nReview Text:\nHe's Awful- Took him the winter and he finished 6 chapters in 20 days. Did not do a review and made the test HARDDDDD! He provides no feedback to your homeworks and hes unwilling to help students to prepare for the exam better."
+  },
+  {
+    "id": "rmp_md_mahbubur_rahman_chunk_4",
+    "source": "rmp_md_mahbubur_rahman.txt",
+    "title": "Student reviews for Professor Md Mahbubur Rahman",
+    "chunk_index": 4,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Md Mahbubur Rahman\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/2649371\n\nReview 5\nCourse: CSCI340\nSentiment: Positive\nReview Text:\neverything is doable and straightforward. The exams are based on memorization, definitions are also from the slides. People complain but you can't pass without doing the minimum work and whining your way out. There is a lot of material, many things to memorize and understand but the class was very doable and prof Rahman is not tricky like others"
+  },
+  {
+    "id": "rmp_md_mahbubur_rahman_chunk_5",
+    "source": "rmp_md_mahbubur_rahman.txt",
+    "title": "Student reviews for Professor Md Mahbubur Rahman",
+    "chunk_index": 5,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Md Mahbubur Rahman\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/2649371\n\nReview 6\nCourse: CSCI381\nSentiment: Positive\nReview Text:\nDr. Rahman is an expert in wireless signals and has a lot to teach you. Your grade is not entirely dependent on exams but also based on group projects and presentations. I would recommend trying to come in with a group since the project is not a walk in the park. This class was very difficult but also very rewarding."
+  },
+  {
+    "id": "rmp_md_mahbubur_rahman_chunk_6",
+    "source": "rmp_md_mahbubur_rahman.txt",
+    "title": "Student reviews for Professor Md Mahbubur Rahman",
+    "chunk_index": 6,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Md Mahbubur Rahman\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/2649371\n\nReview 7\nCourse: CSCI343\nSentiment: Negative\nReview Text:\nPossibly the worst lecturer and laziest professor of all time. Took almost a month to grade midterms despite only teaching 2 medium sized 30 to 40 person classes. Provides little to no resources to succeed in class. The only reason to take him for 343 is he goes kind of slow and his material isn't as in depth as other professors."
+  },
+  {
+    "id": "rmp_md_mahbubur_rahman_chunk_7",
+    "source": "rmp_md_mahbubur_rahman.txt",
+    "title": "Student reviews for Professor Md Mahbubur Rahman",
+    "chunk_index": 7,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Md Mahbubur Rahman\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/2649371\n\nReview 8\nCourse: CSCI343\nSentiment: Negative\nReview Text:\nTells you \"attendance isn't mandatory\", then at the end of semester says he takes participation and effort into consideration when grading. Meanwhile, he doesn't teach. Actually made the students do lectures for like 3-4 classes in a row before the FINAL while he sat on his PHONE. And FORGET about partial credit. Off by a decimal? Its already over."
+  },
+  {
+    "id": "rmp_md_mahbubur_rahman_chunk_8",
+    "source": "rmp_md_mahbubur_rahman.txt",
+    "title": "Student reviews for Professor Md Mahbubur Rahman",
+    "chunk_index": 8,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Md Mahbubur Rahman\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/2649371\n\nReview 9\nCourse: CSCI343\nSentiment: Negative\nReview Text:\nThis prof is genuinely an unhappy person, with bad explanations, very tough grader, refusal to repeat answers, he cant teach assumes you should know everything.I have never had a professor as bad as his in my life, please don't take him 70 percent of class always withdraws."
+  },
+  {
+    "id": "rmp_md_mahbubur_rahman_chunk_9",
+    "source": "rmp_md_mahbubur_rahman.txt",
+    "title": "Student reviews for Professor Md Mahbubur Rahman",
+    "chunk_index": 9,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Md Mahbubur Rahman\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/2649371\n\nReview 10\nCourse: CSCI340\nSentiment: Negative\nReview Text:\nThis guy teaching is nonexistent. You will have to learn everything yourself. Grades incredibly harshly at times. He will doc points for things he makes up in his mind and expects you to know. Your tuition is going to his pocket while the students teach the class. Lazy is a very kind word for him."
+  },
+  {
+    "id": "rmp_nikola_baci_chunk_0",
+    "source": "rmp_nikola_baci.txt",
+    "title": "Student reviews for Professor Nikola Baci",
+    "chunk_index": 0,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Nikola Baci\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/2850154\n\nReview 1\nCourse: CSCI313\nSentiment: Mixed\nReview Text:\nIf you don't lock in and self-study, you'll fail. Before taking this class, you need to learn Java. he often comes late and gives surprise quizzes that cause unnecessary panic. He explains DS clearly, but expects full application on exams with little practice. He does curve just stay above average, and you'll be fine."
+  },
+  {
+    "id": "rmp_nikola_baci_chunk_1",
+    "source": "rmp_nikola_baci.txt",
+    "title": "Student reviews for Professor Nikola Baci",
+    "chunk_index": 1,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Nikola Baci\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/2850154\n\nReview 2\nCourse: CSCI313\nSentiment: Positive\nReview Text:\nBaci breaks down concepts very well and takes his time answering your questions. Data Structures isn't easy, and I received a C because I didn't study as much as I should have. His exams are pretty fair and do include LeetCode problems in them. Easy final. Succeed by doing the homework (LeetCode) and studying the material. Highly recommend Baci."
+  },
+  {
+    "id": "rmp_nikola_baci_chunk_2",
+    "source": "rmp_nikola_baci.txt",
+    "title": "Student reviews for Professor Nikola Baci",
+    "chunk_index": 2,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Nikola Baci\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/2850154\n\nReview 3\nCourse: CSCI313\nSentiment: Positive\nReview Text:\nProfessor Baci is one of the few stem professors that can actually teach and has passion. His slides are clear and easy to understand. He does in class demos which helped with learning how to apply the concepts. He tells you exactly what's on the exam with several hints along the way. There were only 3 exams(20%, 30%, 40%) and 10 quizzes worth 10%."
+  },
+  {
+    "id": "rmp_nikola_baci_chunk_3",
+    "source": "rmp_nikola_baci.txt",
+    "title": "Student reviews for Professor Nikola Baci",
+    "chunk_index": 3,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Nikola Baci\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/2850154\n\nReview 4\nCourse: CSCI313\nSentiment: Positive\nReview Text:\nBaci is a great lecturer/explainer, however taking this course with him as your instructor will require you to practice/study to a great extent. The material in this course is simply what makes it difficult. Knowing Java & simple sorting algos before taking this class will be very beneficial. Put at least 1.75x effort in & you'll pass."
+  },
+  {
+    "id": "rmp_nikola_baci_chunk_4",
+    "source": "rmp_nikola_baci.txt",
+    "title": "Student reviews for Professor Nikola Baci",
+    "chunk_index": 4,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Nikola Baci\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/2850154\n\nReview 5\nCourse: CSCI313\nSentiment: Positive\nReview Text:\nHe is the best. I never bothered to rate my Professor but this is my final year and last semester and first time giving a review for RMP. I got a B but it is because of my own pentuality. I could had easily gotten A and you could too if you just show up and follow and do the work. Exams are practicals and Projects are fun to do."
+  },
+  {
+    "id": "rmp_nikola_baci_chunk_5",
+    "source": "rmp_nikola_baci.txt",
+    "title": "Student reviews for Professor Nikola Baci",
+    "chunk_index": 5,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Nikola Baci\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/2850154\n\nReview 6\nCourse: CSCI313\nSentiment: Negative\nReview Text:\nThis is his first time teaching 240 and he can do so much better. It was very disorganized; he has a tendency to rush during lectures. At most he explains if you have any questions after class. For most of the semester he kept saying repeatedly \"most of you guys are going to fail\" as a student this is discouraging. Good luck, and self-study!"
+  },
+  {
+    "id": "rmp_nikola_baci_chunk_6",
+    "source": "rmp_nikola_baci.txt",
+    "title": "Student reviews for Professor Nikola Baci",
+    "chunk_index": 6,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Nikola Baci\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/2850154\n\nReview 7\nCourse: CSCI313\nSentiment: Mixed\nReview Text:\nThis was his first time teaching CS240 and it wasn't bad but it definitely had a lot of short comings. The way he presented material was understandable but then there would be more difficult topics that he couldn't really explain all that well. Long story short, be ready to self study. He rewards students who participate and engage with his class."
+  },
+  {
+    "id": "rmp_nikola_baci_chunk_7",
+    "source": "rmp_nikola_baci.txt",
+    "title": "Student reviews for Professor Nikola Baci",
+    "chunk_index": 7,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Nikola Baci\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/2850154\n\nReview 8\nCourse: CSCI111\nSentiment: Negative\nReview Text:\nThis is not a beginner-friendly class. The professor expects us to handle everything on our own and does not adequately cover the topics in class. Additionally, the professor does not provide feedback on lab grading, so it's hard to know whats the wrong. Overall, it feels more like a self-study course than a guided learning experience."
+  },
+  {
+    "id": "rmp_nikola_baci_chunk_8",
+    "source": "rmp_nikola_baci.txt",
+    "title": "Student reviews for Professor Nikola Baci",
+    "chunk_index": 8,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Nikola Baci\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/2850154\n\nReview 9\nCourse: CSCI355\nSentiment: Positive\nReview Text:\nHe's really great. I will say that I struggled a lot because I am very new to HTML, CSS and JS. But he was patient with all of us, took the time to help us and even coded with us. He's very funny too and he's a younger professor so he will joke around. Awesome guy. I will say though, his final for the summer shocked everyone haha"
+  },
+  {
+    "id": "rmp_nikola_baci_chunk_9",
+    "source": "rmp_nikola_baci.txt",
+    "title": "Student reviews for Professor Nikola Baci",
+    "chunk_index": 9,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Nikola Baci\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/2850154\n\nReview 10\nCourse: Not listed\nSentiment: Positive\nReview Text:\nI had an amazing experience with Professor Nikola! As a young and recent graduate, he brings a fresh perspective. He ensures understanding, encourages questions, and engages us actively. His real-world experience adds immense value, offering insights other professors might not. Follow his coding guidance for success, and you'll excel!"
+  },
+  {
+    "id": "rmp_simina_fluture_chunk_0",
+    "source": "rmp_simina_fluture.txt",
+    "title": "Student reviews for Professor Simina Fluture",
+    "chunk_index": 0,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Simina Fluture\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/513427\n\nReview 1\nCourse: CSCI343\nSentiment: Negative\nReview Text:\n343 content is already brutal and she doesn't make it much better. 3 exams+quizzes, group presentation, one HW, EC opportunities. lectures are confusing to the point where i taught myself entirely outside of her class. shes also often a pain to deal with. stay on top of every detail in this class on your own time like your life depends on it"
+  },
+  {
+    "id": "rmp_simina_fluture_chunk_1",
+    "source": "rmp_simina_fluture.txt",
+    "title": "Student reviews for Professor Simina Fluture",
+    "chunk_index": 1,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Simina Fluture\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/513427\n\nReview 2\nCourse: CSCI343\nSentiment: Negative\nReview Text:\n343 can be a difficult class if you are not clear on Computer Architecture topics covered in the Pre-Req course. I did not mind Fluture's lectures, but the worst part about her was her attitude and communication. Her assignments and exams are vague, with unsure expectations. She is also difficult to reach outside of her limited Office Hours."
+  },
+  {
+    "id": "rmp_simina_fluture_chunk_2",
+    "source": "rmp_simina_fluture.txt",
+    "title": "Student reviews for Professor Simina Fluture",
+    "chunk_index": 2,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Simina Fluture\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/513427\n\nReview 3\nCourse: CSCI343\nSentiment: Negative\nReview Text:\nFluture seems to favor certain students and is not very approachable. She often comes off as rude and moody, which makes it difficult to ask for help. She's also a very harsh grader,if she doesn't like you, expect points to be taken off. I wouldn't take her again. Only manageable if you have access to past exams."
+  },
+  {
+    "id": "rmp_simina_fluture_chunk_3",
+    "source": "rmp_simina_fluture.txt",
+    "title": "Student reviews for Professor Simina Fluture",
+    "chunk_index": 3,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Simina Fluture\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/513427\n\nReview 4\nCourse: CSCI240\nSentiment: Negative\nReview Text:\nNever take her anyone I beg you. Come just because you don't know the answer to her questions means she has the authority to call you out and shaming you in front of everyone in the class. To be honest many of my class mates were called very bad things by her. VERY SAD that her having a Doctorate and making fun of students who just there to learn."
+  },
+  {
+    "id": "rmp_simina_fluture_chunk_4",
+    "source": "rmp_simina_fluture.txt",
+    "title": "Student reviews for Professor Simina Fluture",
+    "chunk_index": 4,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Simina Fluture\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/513427\n\nReview 5\nCourse: CSCI344\nSentiment: Positive\nReview Text:\nBefore I took 343. That one was little difficult. But distributed system was really easy. I think this is the easiest elective I found. Take this class if you need a really easy elective which will be helpful in future too and thank me later. Highly recommending."
+  },
+  {
+    "id": "rmp_simina_fluture_chunk_5",
+    "source": "rmp_simina_fluture.txt",
+    "title": "Student reviews for Professor Simina Fluture",
+    "chunk_index": 5,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Simina Fluture\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/513427\n\nReview 6\nCourse: CSCI343\nSentiment: Negative\nReview Text:\nShe's clearly smart, but not very approachable and often extremely moody. Office hours felt uncomfortable, like questions weren't welcome, and it seemed she had favorites; the way she treated me felt very different. If you take her class, rely on online resources and past exams, especially if the exam format doesn't change."
+  },
+  {
+    "id": "rmp_simina_fluture_chunk_6",
+    "source": "rmp_simina_fluture.txt",
+    "title": "Student reviews for Professor Simina Fluture",
+    "chunk_index": 6,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Simina Fluture\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/513427\n\nReview 7\nCourse: CSCI340\nSentiment: Positive\nReview Text:\nTook her for both 343 and 340. For 340, took this fall and honestly I learnt a lot. I'll remember her advices forever. She really wants us learn and do good in future. Only reason she's picky about projects is she really wants to us learn the concepts. Honestly materials of 340 at QC is hard, but she tries best to make it as convenient as possible."
+  },
+  {
+    "id": "rmp_simina_fluture_chunk_7",
+    "source": "rmp_simina_fluture.txt",
+    "title": "Student reviews for Professor Simina Fluture",
+    "chunk_index": 7,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Simina Fluture\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/513427\n\nReview 8\nCourse: CSCI343\nSentiment: Positive\nReview Text:\nEasiest way to pass is using the online resources for her class and memorizing. Helped big on Exams, quizzes and extra credit. Attending class helps a lot too. You can also improve your midterm grades on the final exam, if you didn't do well, so it is very manageable to get a C. Show you're putting in effort and you will pass."
+  },
+  {
+    "id": "rmp_simina_fluture_chunk_8",
+    "source": "rmp_simina_fluture.txt",
+    "title": "Student reviews for Professor Simina Fluture",
+    "chunk_index": 8,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Simina Fluture\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/513427\n\nReview 9\nCourse: CSCI343\nSentiment: Mixed\nReview Text:\nTough class that is going to take a lot of time studying for. She is the best option for 343 though. Just use the study resources that are out there to practice similar problems on the exam. Do the extra credit, go to office hours, and attend class, and you will get on her good side. She can come off rude, but just have thick skin, you'll be fine."
+  },
+  {
+    "id": "rmp_simina_fluture_chunk_9",
+    "source": "rmp_simina_fluture.txt",
+    "title": "Student reviews for Professor Simina Fluture",
+    "chunk_index": 9,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Simina Fluture\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/513427\n\nReview 10\nCourse: CSCI343\nSentiment: Mixed\nReview Text:\nFuture is a good professor, but she is a very harsh grader. She only accepts answers the way she taught in class. If it's anything different then she doesn't give grace points. She also gets very annoyed if you ask her any questions. 1 homework, 2 midterms, 2 quizzes, 1 presentation, and a final. Take her on your own risk."
+  },
+  {
+    "id": "rmp_xinying_chyn_chunk_0",
+    "source": "rmp_xinying_chyn.txt",
+    "title": "Student reviews for Professor Xinying Chyn",
+    "chunk_index": 0,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Xinying Chyn\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/2715711\n\nReview 1\nCourse: CSCI111\nSentiment: Mixed\nReview Text:\nProf Chyn is an ok professor. For an intro to C++ class its actually pretty hard. All you get is 50 min lectures and a packet of problem sets which you never really learn how to do. 2 tests, 1 final, no curve. Seems like no one really knows what's going on, but that's probably different for ppl with a good lab prof (which i don't have)."
+  },
+  {
+    "id": "rmp_xinying_chyn_chunk_1",
+    "source": "rmp_xinying_chyn.txt",
+    "title": "Student reviews for Professor Xinying Chyn",
+    "chunk_index": 1,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Xinying Chyn\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/2715711\n\nReview 2\nCourse: CSCI323\nSentiment: Positive\nReview Text:\nProfessor chyn is highly dedicated and consistently posts thorough notes for each lecture, making it easy to stay on track. The class is well-structured, and the grading includes a reasonable curve, which helps balance the difficulty of the material. A very dependable and thoughtful instructor—would definitely recommend."
+  },
+  {
+    "id": "rmp_xinying_chyn_chunk_2",
+    "source": "rmp_xinying_chyn.txt",
+    "title": "Student reviews for Professor Xinying Chyn",
+    "chunk_index": 2,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Xinying Chyn\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/2715711\n\nReview 3\nCourse: CSCI331\nSentiment: Positive\nReview Text:\nThis professor is very responsible and genuinely cares about student success. They upload detailed notes after every class, which is extremely helpful for reviewing the material. The course is fair, and there's a curve at the end that really supports students who put in the effort. Overall, a very organized and supportive instructor."
+  },
+  {
+    "id": "rmp_xinying_chyn_chunk_3",
+    "source": "rmp_xinying_chyn.txt",
+    "title": "Student reviews for Professor Xinying Chyn",
+    "chunk_index": 3,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Xinying Chyn\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/2715711\n\nReview 4\nCourse: CSCI323\nSentiment: Negative\nReview Text:\nShe was unhelpful. I tried asking for help and she wouldn't even try to help me at all. I had high hopes but she was not it. She goes through the lecture so fast and was so hard to keep up and understand."
+  },
+  {
+    "id": "rmp_xinying_chyn_chunk_4",
+    "source": "rmp_xinying_chyn.txt",
+    "title": "Student reviews for Professor Xinying Chyn",
+    "chunk_index": 4,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Xinying Chyn\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/2715711\n\nReview 5\nCourse: CSCI331\nSentiment: Positive\nReview Text:\nI would say she is the BEST CS professor in QC. I took her for 111, 220, and 331, and you would learn a lot from her. Even though you miss the lecture, you would still make up by reading the class note and watching the lecture record. The grade is base on the class average. Highly recommended, if you see her name on any class just take!"
+  },
+  {
+    "id": "rmp_xinying_chyn_chunk_5",
+    "source": "rmp_xinying_chyn.txt",
+    "title": "Student reviews for Professor Xinying Chyn",
+    "chunk_index": 5,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Xinying Chyn\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/2715711\n\nReview 6\nCourse: CSCI211\nSentiment: Mixed\nReview Text:\nShe was good for CS111 but not for higher level ig. can't really teach the materials, don't give clear concept. Though she's lenient with test as the questions are mostly similar to the one, she does in class. But if you wanna learn something, there're better options!"
+  },
+  {
+    "id": "rmp_xinying_chyn_chunk_6",
+    "source": "rmp_xinying_chyn.txt",
+    "title": "Student reviews for Professor Xinying Chyn",
+    "chunk_index": 6,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Xinying Chyn\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/2715711\n\nReview 7\nCourse: CSCI111\nSentiment: Negative\nReview Text:\nOverall, not a bad professor when it comes to leniency. I had a special circumstance in which I had a family emergency. I had a very close family member pass away and informed the professor of this cause, as I had to miss some lectures due to a funeral and related matters. The professor did not understand my matter at all. Professor has an accent."
+  },
+  {
+    "id": "rmp_xinying_chyn_chunk_7",
+    "source": "rmp_xinying_chyn.txt",
+    "title": "Student reviews for Professor Xinying Chyn",
+    "chunk_index": 7,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Xinying Chyn\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/2715711\n\nReview 8\nCourse: CSCI111\nSentiment: Negative\nReview Text:\nProfessor is very difficult to understand during lectures. Be ready to rely on lab professor to learn an A LOT of self teaching. Professor had good ratings previously, but in recent years she has gained a negative reputation for not being understanding and supportive. Does not want to make a move to connect with students and help them if needed."
+  },
+  {
+    "id": "rmp_xinying_chyn_chunk_8",
+    "source": "rmp_xinying_chyn.txt",
+    "title": "Student reviews for Professor Xinying Chyn",
+    "chunk_index": 8,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Xinying Chyn\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/2715711\n\nReview 9\nCourse: CSCI340\nSentiment: Positive\nReview Text:\nWhile this class was maybe not her specialty, I felt like I got a good grasp of general concepts and expanded my world a little bit. While her course was a touch easier than the other ones, I didn't feel too lost looking at other Prof's 340 exams. Plenty of opportunities for extra credit to help you pass. Exams as always, were extremely fair."
+  },
+  {
+    "id": "rmp_xinying_chyn_chunk_9",
+    "source": "rmp_xinying_chyn.txt",
+    "title": "Student reviews for Professor Xinying Chyn",
+    "chunk_index": 9,
+    "text": "Source: Rate My Professor\nDocument Title: Student reviews for Professor Xinying Chyn\nSchool: Queens College\nDepartment: Computer Science\nURL: https://www.ratemyprofessors.com/professor/2715711\n\nReview 10\nCourse: CSCI111\nSentiment: Positive\nReview Text:\nShe is a very good explainer. She'll try her best to make you understand the topic you're unable to. She records her class and shares it online with classsnotes included. If you review and pratice enough you should be able to get a good grade."
+  }
+]
