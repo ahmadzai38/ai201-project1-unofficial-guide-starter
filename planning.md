@@ -12,6 +12,7 @@ Update this file before starting any stretch features.
 My domain is unofficial student reviews of Queens College Computer Science professors and courses. This knowledge is valuable because official college pages show course descriptions, but they do not tell students what the class feels like, how professors teach, how exams are structured, how much self-study is needed, or what advice other students give.
 
 This guide is meant to help students ask plain-English questions like “Which professor is good for CSCI240?”, “Which classes require a lot of self-study?”, or “What do students say about exams?” and get answers based only on student review documents.
+
 ---
 
 ## Documents
@@ -81,6 +82,7 @@ If this were a real production system, I would compare embedding models based on
 3	What do students say about Professor Nikola Baci’s CSCI313?	Students say he explains data structures clearly, but the class requires self-study, Java knowledge, LeetCode or homework practice, and serious preparation.
 4	Which professors are described as requiring a lot of self-study or outside resources?	The system should mention professors such as Nikola Baci, Anne Smith-Thompson, Simina Fluture, Jerry Waxman, Kenneth Lord, or Md Mahbubur Rahman depending on the retrieved chunks. The answer should explain which reviews mention self-study, outside videos, textbooks, problem books, or online resources.
 5	What do the documents say about campus dining at Queens College?	The system should say it does not have enough information because the documents are about Computer Science professor reviews, not campus dining.
+
 ---
 
 ## Anticipated Challenges
@@ -146,7 +148,13 @@ For the interface step, I will ask the AI to help build a simple Gradio app with
 For the README and evaluation report, I will use AI to help organize my writing, but I will base the results on my actual system outputs. I will include both successful examples and at least one failure case.
 
 **Milestone 3 — Ingestion and chunking:**
+In this milestone, I will build a document ingestion script that loads all .txt files from the documents/ folder, cleans extra spacing, and splits the reviews into chunks. Since my documents are review-based, I plan to keep each review mostly as its own chunk when possible. I will print sample chunks and check that each chunk is readable, self-contained, and includes useful metadata such as source document, professor, course, and sentiment.
+
+
 
 **Milestone 4 — Embedding and retrieval:**
+In this milestone, I will embed the chunks using all-MiniLM-L6-v2 from sentence-transformers and store them in ChromaDB. I will write a retrieval function that returns the top 4 relevant chunks for a user query along with source metadata. I will test retrieval using at least 3 questions from my evaluation plan and check whether the returned chunks are relevant before moving to generation.
+
 
 **Milestone 5 — Generation and interface:**
+In this milestone, I will connect retrieval to a Groq LLM and build a simple Gradio interface. The generation prompt will instruct the model to answer only from the retrieved chunks and to say it does not have enough information when the documents do not answer the question. The interface will show both the answer and the source documents so users can see where the response came from.
