@@ -1,0 +1,65 @@
+Source: Rate My Professor
+Document Title: Student reviews for Professor Anne Smith-Thompson
+School: Queens College
+Department: Computer Science
+URL: https://www.ratemyprofessors.com/professor/352320
+
+Review 1
+Course: CSCI316
+Sentiment: Positive
+Review Text:
+I failed both Kong and Tao. They were both awful professors—very mean and insincere. Then I took Anne. I attended every class and put effort into all my assignments and quizzes. Everything was based on what we learned. She's a bit disorganized and grades things late, but she's one of the sweetest women ever.
+
+Review 2
+Course: CSCI340
+Sentiment: Negative
+Review Text:
+She cant teach at all. The part where she goes on tangents is true and she gets mad if you try to reach out to her after hours. You arerelying on zybooks and sheer luck to know anything on her exams as she doesn't do proper review for her classes(except maybe 316). She doesn't even post class notes or recordings on time.
+
+Review 3
+Course: CSCI343
+Sentiment: Positive
+Review Text:
+Prof Thompson is one of the best CS professors in QC. She is caring and always willing to help once you show that your putting in the work. Go to class, take notes, study and you will be fine. She gives a quiz every week which helps keep you on top of things. She give extra credit points for stuff. She's not out here just trying to fail people.
+
+Review 4
+Course: CSCI313
+Sentiment: Negative
+Review Text:
+She is insufferable, expects students to know the material beforehand, cancels classes frequently, and is super slow to grade. Her teaching is poor, yet her exams are overly difficult. Take her only if you already know the subject.
+
+Review 5
+Course: CSCI313
+Sentiment: Negative
+Review Text:
+She is super unorganized and will make your life HELL. She barely taught the basics in the class and midterm was so hard. It was nothing like stuff we learned in the class. She's so unfair. Makes classes asynchronous every week says recordings will be posted and then never posts the recordings for it. UNFAIIIRRR.
+
+Review 6
+Course: CSCI343
+Sentiment: Mixed
+Review Text:
+Average professor: many quizzes, difficult tests, and her personality is somewhat abrasive. She cares and wants you to pass though, She holds a lot of review lectures outside of class. She does require you to pay for Zybooks for homework though. Just do all the work assigned in a timely manner and take the class very seriously.
+
+Review 7
+Course: CSCI340
+Sentiment: Negative
+Review Text:
+Anne does go off topic but not as frequently as many say. Class is very chaotic and she'll frequently cancel class at the last minute. Takes FOREVER to post grades for anything. Doesn't respond to emails and generally seems very apathetic towards the class. Perfect representation of the CS department for a joke of an institution like QC.
+
+Review 8
+Course: CSCI340
+Sentiment: Mixed
+Review Text:
+While she does go on tangents a lot, it usually relates to the material. You will likely have to learn from the textbook though. Her exams are definitely not too hard if you put in the work. She can be kind of harsh grading the programming assignments though. She is generally nice but can be a bit mean if the class didnt do well on the exam.
+
+Review 9
+Course: CSCI343
+Sentiment: Positive
+Review Text:
+Make sure you listen a LOT to what professor says in class. She will test you heavily on what she goes over more frequently in class. Then, read the textbook chapter of the specific topic you went over in class. Go to office hours and ask specific questions on what to go over before a test, and go over topics you struggle with in office hours.
+
+Review 10
+Course: CSCI343
+Sentiment: Mixed
+Review Text:
+Professor Anne was ok, I didnt really learn much and she never showed up to class however she is very nice and even though I failed half the quizzes hard, she told us what would be on the final and the final itself was a copy paste of the quizzes with a curve and I got a 95 on the final somehow. I ended up with a B, Easy to pass but wont learn.

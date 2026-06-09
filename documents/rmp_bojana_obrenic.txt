@@ -1,0 +1,65 @@
+Source: Rate My Professor
+Document Title: Student reviews for Professor Bojana Obrenic
+School: Queens College
+Department: Computer Science
+URL: https://www.ratemyprofessors.com/professor/249702
+
+Review 1
+Course: CSCI320
+Sentiment: Positive
+Review Text:
+She has a good curve for tests. As long as you practice questions from her problem book and learn on ur own or by going to her lectures, you will be good. Her problem book serves as an example of how her exams look like. She even puts extra questions on exam for a better chance at passing. Waaaay better than Boklan, for passing the course.
+
+Review 2
+Course: CSCI320
+Sentiment: Positive
+Review Text:
+She is nice. She is caring and is considerate of students. Go to class, participate, and you will learn a lot. Just relying upon previous professors' reviews is not enough. Review materials can be enough to pass, but for A, you have to work for it. Best of 2 exams. She gives a lot of extra credits, seriously, a lot. Go to class, and you will learn.
+
+Review 3
+Course: CSCI320
+Sentiment: Mixed
+Review Text:
+If you do well on midterm 1 and midterm 2 , you dont need to take the final. I wind up taking final which you need at least a 60 to be consider passing her class. I took her during the summer. Exam 1 is regular expression, godel numbers, dfa, ndfa, telescoping and cfg Exam 2 is Pump Lemma, Turing Machine and exam 1 stuff Final is exam 1&2.
+
+Review 4
+Course: CSCI320
+Sentiment: Positive
+Review Text:
+320 can be difficult but with her curve (taking the higher 2 out of the 3 exams & only 40 pts is a C) she is VERY passable. So many resources out there as others have said, legit do the problem book and ur good! Is very tough-love, always says “she'll beat you up if your answer is garbage”, but means well & is entertaining! Truly the canon choice.
+
+Review 5
+Course: CSCI320
+Sentiment: Positive
+Review Text:
+Professor Obrenic is undoubtedly the funniest professor in QC history. If you take the time to go to her lectures and get beaten up (iykyk), you'll have a great time and it will make the exams easier. The exams are difficult by time constraint, but they are more than studyable. The bar for a C is also quite low (80 point sum between 2 exams).
+
+Review 6
+Course: CSCI331
+Sentiment: Mixed
+Review Text:
+Similar style lectures to her 320. More problem solving tests. Same super generous grading scale. If you liked her 320, you'll like her 331. If you didn't like her 320, don't take 331. A lot of theory, but also heavy in SQL, datalog, relational algebra. My only warning is that if you relied on Clint for 320, you don't have that clutch anymore.
+
+Review 7
+Course: CSCI320
+Sentiment: Negative
+Review Text:
+I graduated a while ago. Looking back, this is the worst prof I've ever had in my entire life. Every where I went to complain about her, they knew her by name, even before I say her name, and they would just tell me that lots of students complain about her regularly. Yet nobody holds her accountable. She has to be investigated! Easy pass though.
+
+Review 8
+Course: CSCI320
+Sentiment: Mixed
+Review Text:
+2nd best option for 320 besides Ryba. Graded off 3 exams, have to average a 40 for a C. Exam problems are very unintuitive and require Clint videos for guidance on how to approach them. Go to one of the CS club discords and join the 320 server to watch his vids. Without him exams are borderline impossible. Her lectures are entirely useless as well.
+
+Review 9
+Course: CSCI320
+Sentiment: Positive
+Review Text:
+Grading criteria is generous. I did well on my first tests, skipped the final and still got A+. Idk why people decide to skip class and only watch Clint's videos; do both and everything will be clear She gives no HW and has a problem book of every exam question she's ever given. EC opportunities. Most fascinating lectures at QC. Can be abrasive.
+
+Review 10
+Course: CSCI320
+Sentiment: Negative
+Review Text:
+only positive thing was the simple grading criteria- 3 tests with the lowest dropped. The course is EASY and USELESS. Terrible attitude when someone asks a question (she refuses to answer and only asks if theres a mistake with what she wrote), she tries to be funny but is only successful 5% of the time. And the worst is her handwriting, unreadable

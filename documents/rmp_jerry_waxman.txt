@@ -1,0 +1,65 @@
+Source: Rate My Professor
+Document Title: Student reviews for Professor Jerry Waxman
+School: Queens College
+Department: Computer Science
+URL: https://www.ratemyprofessors.com/professor/287312
+
+Review 1
+Course: CSCI211
+Sentiment: Positive
+Review Text:
+Went to ~60% of lectures, attended lab only for quizzes, went to the final 80 minutes late. Got an A. Amazing professor, fantastic lecturing ability. Content may be difficult, but most enlightening. Do projects by yourself, use ai only to teach you concepts. Attending, participating, and meditating on the concepts will get you mastery of C++.
+
+Review 2
+Course: CSCI381
+Sentiment: Positive
+Review Text:
+You do not take this professor for a grade, you seek his teachings through this course to LEARN. I've long graduated, yet many of his core teachings have not left me. You are part of the best of the best Prof! Thank you for making such a cognitively difficult and overloaded course so enjoyable and memorable!
+
+Review 3
+Course: CSCI211
+Sentiment: Positive
+Review Text:
+He is a good prof. He will answer all your questions if you ask him. Some students get low grades because they don't attend his class or don't review their notebooks. You should listen carefully and take notes, it will be helpful for exams. He curves based on the class average. I recommend taking his class.
+
+Review 4
+Course: CSCI211
+Sentiment: Positive
+Review Text:
+I never went to labs so I got a B. His exams were trivial, i.e. you should have no problems if you did the work. Waxman himself is actually reasonable and nice, it's that he's seen so much BS from students over the years. Just do the work and it's an easy A+. If not, lock in because CS gets much harder than this.
+
+Review 5
+Course: CSCI211
+Sentiment: Negative
+Review Text:
+I took his class in the fall, and the experience was very difficult. His handwriting was hard to read, and no technology was allowed. If a phone was used, he would stop the lecture to address it. I found it easier to learn the material on my own. I would not recommend this class if GPA is a concern.
+
+Review 6
+Course: CSCI211
+Sentiment: Mixed
+Review Text:
+Waxman is a charismatic guy but his explanations can be overly complex sometimes. He gives a vague idea about what would be on his tests but they're moderately difficult since all you have to really do is remember the projects. His curves ease the stress and his tests are mainly fill in the blanks or “enter the output” questions.
+
+Review 7
+Course: CSCI211
+Sentiment: Negative
+Review Text:
+Worst experience in QC, you won't learn anything besides memorizing projects. Waxman loves to gatekeep what is on the test and will make his exams as hard as possible to the point where his curves can't even save you. Learned more from 211 review sessions that weren't even from him than all his lectures combined. Please avoid him and his textbooks.
+
+Review 8
+Course: CSCI211
+Sentiment: Mixed
+Review Text:
+Waxman gets a bad rep, but honestly 211 is more of a weed out class. At the end of each test, we were given a graph that shows how well you did and more than 60% of the class did so bad, which ends up helping you cause he gives a massive curve. Currently taking 300 level courses, and there are people who still don't know how to create Classes.
+
+Review 9
+Course: CSCI211
+Sentiment: Negative
+Review Text:
+was surprised we weren't allowed to use our computer or any electronics. His lectures were okay, it didn't help me, tho. You have to buy the textbook to take your notes, and his review was so-so. The exams were mostly writing, then coding. There were unexpected questions in his exams; he has a big curve, but I will not take his class again.
+
+Review 10
+Course: CSCI211
+Sentiment: Mixed
+Review Text:
+It's hard to hear him unless you sit up close. The class isn't OOP until last class and it's mostly thinking how to program. If you like coding, this isn't a bad class but take someone else if you want true OOP. 1 hard exam, 1 easy exam, curved into Narnia. 40% for lab. If you're not getting at least a B+ you're trolling.

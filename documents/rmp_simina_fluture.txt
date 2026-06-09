@@ -1,0 +1,65 @@
+Source: Rate My Professor
+Document Title: Student reviews for Professor Simina Fluture
+School: Queens College
+Department: Computer Science
+URL: https://www.ratemyprofessors.com/professor/513427
+
+Review 1
+Course: CSCI343
+Sentiment: Negative
+Review Text:
+343 content is already brutal and she doesn't make it much better. 3 exams+quizzes, group presentation, one HW, EC opportunities. lectures are confusing to the point where i taught myself entirely outside of her class. shes also often a pain to deal with. stay on top of every detail in this class on your own time like your life depends on it
+
+Review 2
+Course: CSCI343
+Sentiment: Negative
+Review Text:
+343 can be a difficult class if you are not clear on Computer Architecture topics covered in the Pre-Req course. I did not mind Fluture's lectures, but the worst part about her was her attitude and communication. Her assignments and exams are vague, with unsure expectations. She is also difficult to reach outside of her limited Office Hours.
+
+Review 3
+Course: CSCI343
+Sentiment: Negative
+Review Text:
+Fluture seems to favor certain students and is not very approachable. She often comes off as rude and moody, which makes it difficult to ask for help. She's also a very harsh grader,if she doesn't like you, expect points to be taken off. I wouldn't take her again. Only manageable if you have access to past exams.
+
+Review 4
+Course: CSCI240
+Sentiment: Negative
+Review Text:
+Never take her anyone I beg you. Come just because you don't know the answer to her questions means she has the authority to call you out and shaming you in front of everyone in the class. To be honest many of my class mates were called very bad things by her. VERY SAD that her having a Doctorate and making fun of students who just there to learn.
+
+Review 5
+Course: CSCI344
+Sentiment: Positive
+Review Text:
+Before I took 343. That one was little difficult. But distributed system was really easy. I think this is the easiest elective I found. Take this class if you need a really easy elective which will be helpful in future too and thank me later. Highly recommending.
+
+Review 6
+Course: CSCI343
+Sentiment: Negative
+Review Text:
+She's clearly smart, but not very approachable and often extremely moody. Office hours felt uncomfortable, like questions weren't welcome, and it seemed she had favorites; the way she treated me felt very different. If you take her class, rely on online resources and past exams, especially if the exam format doesn't change.
+
+Review 7
+Course: CSCI340
+Sentiment: Positive
+Review Text:
+Took her for both 343 and 340. For 340, took this fall and honestly I learnt a lot. I'll remember her advices forever. She really wants us learn and do good in future. Only reason she's picky about projects is she really wants to us learn the concepts. Honestly materials of 340 at QC is hard, but she tries best to make it as convenient as possible.
+
+Review 8
+Course: CSCI343
+Sentiment: Positive
+Review Text:
+Easiest way to pass is using the online resources for her class and memorizing. Helped big on Exams, quizzes and extra credit. Attending class helps a lot too. You can also improve your midterm grades on the final exam, if you didn't do well, so it is very manageable to get a C. Show you're putting in effort and you will pass.
+
+Review 9
+Course: CSCI343
+Sentiment: Mixed
+Review Text:
+Tough class that is going to take a lot of time studying for. She is the best option for 343 though. Just use the study resources that are out there to practice similar problems on the exam. Do the extra credit, go to office hours, and attend class, and you will get on her good side. She can come off rude, but just have thick skin, you'll be fine.
+
+Review 10
+Course: CSCI343
+Sentiment: Mixed
+Review Text:
+Future is a good professor, but she is a very harsh grader. She only accepts answers the way she taught in class. If it's anything different then she doesn't give grace points. She also gets very annoyed if you ask her any questions. 1 homework, 2 midterms, 2 quizzes, 1 presentation, and a final. Take her on your own risk.

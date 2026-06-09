@@ -1,0 +1,65 @@
+Source: Rate My Professor
+Document Title: Student reviews for Professor Xinying Chyn
+School: Queens College
+Department: Computer Science
+URL: https://www.ratemyprofessors.com/professor/2715711
+
+Review 1
+Course: CSCI111
+Sentiment: Mixed
+Review Text:
+Prof Chyn is an ok professor. For an intro to C++ class its actually pretty hard. All you get is 50 min lectures and a packet of problem sets which you never really learn how to do. 2 tests, 1 final, no curve. Seems like no one really knows what's going on, but that's probably different for ppl with a good lab prof (which i don't have).
+
+Review 2
+Course: CSCI323
+Sentiment: Positive
+Review Text:
+Professor chyn is highly dedicated and consistently posts thorough notes for each lecture, making it easy to stay on track. The class is well-structured, and the grading includes a reasonable curve, which helps balance the difficulty of the material. A very dependable and thoughtful instructor—would definitely recommend.
+
+Review 3
+Course: CSCI331
+Sentiment: Positive
+Review Text:
+This professor is very responsible and genuinely cares about student success. They upload detailed notes after every class, which is extremely helpful for reviewing the material. The course is fair, and there's a curve at the end that really supports students who put in the effort. Overall, a very organized and supportive instructor.
+
+Review 4
+Course: CSCI323
+Sentiment: Negative
+Review Text:
+She was unhelpful. I tried asking for help and she wouldn't even try to help me at all. I had high hopes but she was not it. She goes through the lecture so fast and was so hard to keep up and understand.
+
+Review 5
+Course: CSCI331
+Sentiment: Positive
+Review Text:
+I would say she is the BEST CS professor in QC. I took her for 111, 220, and 331, and you would learn a lot from her. Even though you miss the lecture, you would still make up by reading the class note and watching the lecture record. The grade is base on the class average. Highly recommended, if you see her name on any class just take!
+
+Review 6
+Course: CSCI211
+Sentiment: Mixed
+Review Text:
+She was good for CS111 but not for higher level ig. can't really teach the materials, don't give clear concept. Though she's lenient with test as the questions are mostly similar to the one, she does in class. But if you wanna learn something, there're better options!
+
+Review 7
+Course: CSCI111
+Sentiment: Negative
+Review Text:
+Overall, not a bad professor when it comes to leniency. I had a special circumstance in which I had a family emergency. I had a very close family member pass away and informed the professor of this cause, as I had to miss some lectures due to a funeral and related matters. The professor did not understand my matter at all. Professor has an accent.
+
+Review 8
+Course: CSCI111
+Sentiment: Negative
+Review Text:
+Professor is very difficult to understand during lectures. Be ready to rely on lab professor to learn an A LOT of self teaching. Professor had good ratings previously, but in recent years she has gained a negative reputation for not being understanding and supportive. Does not want to make a move to connect with students and help them if needed.
+
+Review 9
+Course: CSCI340
+Sentiment: Positive
+Review Text:
+While this class was maybe not her specialty, I felt like I got a good grasp of general concepts and expanded my world a little bit. While her course was a touch easier than the other ones, I didn't feel too lost looking at other Prof's 340 exams. Plenty of opportunities for extra credit to help you pass. Exams as always, were extremely fair.
+
+Review 10
+Course: CSCI111
+Sentiment: Positive
+Review Text:
+She is a very good explainer. She'll try her best to make you understand the topic you're unable to. She records her class and shares it online with classsnotes included. If you review and pratice enough you should be able to get a good grade.

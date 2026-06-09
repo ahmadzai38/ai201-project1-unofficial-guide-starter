@@ -1,0 +1,65 @@
+Source: Rate My Professor
+Document Title: Student reviews for Professor Nikola Baci
+School: Queens College
+Department: Computer Science
+URL: https://www.ratemyprofessors.com/professor/2850154
+
+Review 1
+Course: CSCI313
+Sentiment: Mixed
+Review Text:
+If you don't lock in and self-study, you'll fail. Before taking this class, you need to learn Java. he often comes late and gives surprise quizzes that cause unnecessary panic. He explains DS clearly, but expects full application on exams with little practice. He does curve just stay above average, and you'll be fine.
+
+Review 2
+Course: CSCI313
+Sentiment: Positive
+Review Text:
+Baci breaks down concepts very well and takes his time answering your questions. Data Structures isn't easy, and I received a C because I didn't study as much as I should have. His exams are pretty fair and do include LeetCode problems in them. Easy final. Succeed by doing the homework (LeetCode) and studying the material. Highly recommend Baci.
+
+Review 3
+Course: CSCI313
+Sentiment: Positive
+Review Text:
+Professor Baci is one of the few stem professors that can actually teach and has passion. His slides are clear and easy to understand. He does in class demos which helped with learning how to apply the concepts. He tells you exactly what's on the exam with several hints along the way. There were only 3 exams(20%, 30%, 40%) and 10 quizzes worth 10%.
+
+Review 4
+Course: CSCI313
+Sentiment: Positive
+Review Text:
+Baci is a great lecturer/explainer, however taking this course with him as your instructor will require you to practice/study to a great extent. The material in this course is simply what makes it difficult. Knowing Java & simple sorting algos before taking this class will be very beneficial. Put at least 1.75x effort in & you'll pass.
+
+Review 5
+Course: CSCI313
+Sentiment: Positive
+Review Text:
+He is the best. I never bothered to rate my Professor but this is my final year and last semester and first time giving a review for RMP. I got a B but it is because of my own pentuality. I could had easily gotten A and you could too if you just show up and follow and do the work. Exams are practicals and Projects are fun to do.
+
+Review 6
+Course: CSCI313
+Sentiment: Negative
+Review Text:
+This is his first time teaching 240 and he can do so much better. It was very disorganized; he has a tendency to rush during lectures. At most he explains if you have any questions after class. For most of the semester he kept saying repeatedly "most of you guys are going to fail" as a student this is discouraging. Good luck, and self-study!
+
+Review 7
+Course: CSCI313
+Sentiment: Mixed
+Review Text:
+This was his first time teaching CS240 and it wasn't bad but it definitely had a lot of short comings. The way he presented material was understandable but then there would be more difficult topics that he couldn't really explain all that well. Long story short, be ready to self study. He rewards students who participate and engage with his class.
+
+Review 8
+Course: CSCI111
+Sentiment: Negative
+Review Text:
+This is not a beginner-friendly class. The professor expects us to handle everything on our own and does not adequately cover the topics in class. Additionally, the professor does not provide feedback on lab grading, so it's hard to know whats the wrong. Overall, it feels more like a self-study course than a guided learning experience.
+
+Review 9
+Course: CSCI355
+Sentiment: Positive
+Review Text:
+He's really great. I will say that I struggled a lot because I am very new to HTML, CSS and JS. But he was patient with all of us, took the time to help us and even coded with us. He's very funny too and he's a younger professor so he will joke around. Awesome guy. I will say though, his final for the summer shocked everyone haha
+
+Review 10
+Course: Not listed
+Sentiment: Positive
+Review Text:
+I had an amazing experience with Professor Nikola! As a young and recent graduate, he brings a fresh perspective. He ensures understanding, encourages questions, and engages us actively. His real-world experience adds immense value, offering insights other professors might not. Follow his coding guidance for success, and you'll excel!

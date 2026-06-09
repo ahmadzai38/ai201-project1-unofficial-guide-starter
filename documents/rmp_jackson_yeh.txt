@@ -1,0 +1,65 @@
+Source: Rate My Professor
+Document Title: Student reviews for Professor Jackson Yeh
+School: Queens College
+Department: Computer Science
+URL: https://www.ratemyprofessors.com/professor/1082596
+
+Review 1
+Course: CSCI240
+Sentiment: Positive
+Review Text:
+2 quizzes you can do multiple times to get 100%, a midterm and final, and a Logisim project, which he goes over in class. Very straightforward teaching; good examples to practice during class. The content can be difficult even if it's online; you definitely should take notes (exams are open-book). Wants students to do well and participate.
+
+Review 2
+Course: CSCI240
+Sentiment: Positive
+Review Text:
+Took him for 4 week summer which is VERY accelerated. Open notes midterm and final. Circuit project we did 80% together so that was free 100. Advice: BRUSH UP ON UR BINARY. It's used the whole class and he speeds through it. His lectures are too fast to write everything down in a notebook (I tried) so I suggest just taking notes on the pdf itself.
+
+Review 3
+Course: CSCI240
+Sentiment: Positive
+Review Text:
+The class is online. Dr. Yeh records all lectures and posts them so you can rewatch them if you miss class. Try your best not to fall back as concepts tend to build upon one another. Overall, class not too difficult as the exams/quizzes are online. Hardest part is the project in logisim. Otherwise, he is the best choice for 240 at QC, hands down.
+
+Review 4
+Course: CSCI240
+Sentiment: Positive
+Review Text:
+Professor Yeh, the goat. Just take his class. He has two exams (midterm and final), both open-book and online, and the circuit project is manageable. His lectures are recorded. Reviews say he is rude, but he was never rude, people are just soft. A chill professor and one of the best in the QC CS dept. I know people struggling with other professors.
+
+Review 5
+Course: CSCI240
+Sentiment: Positive
+Review Text:
+he's really good for the class, except with MIPS because its harder. does not respond to emails, but his lectures are clear. the project is very easy, and he explains everything so well!! The midterm was a joke (just on the first chapter), the final is a bit more difficult, but everything is online and he lets you use your notes
+
+Review 6
+Course: CSCI240
+Sentiment: Negative
+Review Text:
+Overrated instructor who does his job in ways that are most convenient to himself. Students' learning comes secondary. Some students happen to benefit from it and most are hurt. No wonder everyone had such a rude awakening looking at their exam results. Nonetheless, he's still better than most of the other CS instructors.
+
+Review 7
+Course: CSCI240
+Sentiment: Positive
+Review Text:
+There is a curve on the overall grade. Textbook is not needed to do well. Recordings are enough to help understand the material. Very lenient on project deadlines. Clarifies unclear material & answers question very well during class. At times he takes a while to respond to emails or does not at all respond to them. He can be sarcastic & humorous
+
+Review 8
+Course: CSCI240
+Sentiment: Positive
+Review Text:
+GREAT PROFFESOR!! Just don't do any funny bussiness during the exams like no cams during exams or being buck naked. 2 exams, 2 quizzes and a project. For the summer class I took, he waived the project because it was just a 4 week course. Easy A if you study the class slides.
+
+Review 9
+Course: CSCI240
+Sentiment: Positive
+Review Text:
+Can't say anything more about this professor other than the fact that he is the GOAT. He is the best option for 240, especially during the summer, and he teaches in a way that is very easy to understand. He also records lectures and the exams were pretty fair. One of the only good CS professors in the department, could never ask for more.
+
+Review 10
+Course: CSCI240
+Sentiment: Positive
+Review Text:
+Is very clear during lectures and has a clear grading criteria. Two exams, one project, and quizzes (free grade). He records lectures so participation doesn't matter however you should still make sure you're not behind or else you'll struggle. Exams were moderate. Overall, a decent professor who can teach properly!

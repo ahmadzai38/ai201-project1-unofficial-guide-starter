@@ -1,0 +1,65 @@
+Source: Rate My Professor
+Document Title: Student reviews for Professor Kenneth Lord
+School: Queens College
+Department: Computer Science
+URL: https://www.ratemyprofessors.com/professor/100358
+
+Review 1
+Course: CSCI212
+Sentiment: Positive
+Review Text:
+Best option for 212. Easy exams if you do the review he posts up. Easy final. Projects are alright, just don't fall behind on the concepts. He is a professor who gets the job done. You have to be super slow to get below a B in this class. Just study and keep up with the concepts - like maybe 2/3 hours a week of studying, you'll get an A.
+
+Review 2
+Course: CSCI212
+Sentiment: Mixed
+Review Text:
+Alright, my man right here will answer any question in lectures but is sooo boring and makes you feel like you shouldn't even ask questions in the first place, thats how uninterested this guy is in the class. Other than that he straight ig, not really a mean guy. Let's say out of 150 seats only 40 seats were filled each class since most didn't show
+
+Review 3
+Course: CSCI212
+Sentiment: Positive
+Review Text:
+The lectures can be dry, but the content and exams are manageable. Take advantage of the lab TAs - they're really helpful for the projects. unstuck ai was a great study tool too. Overall, it's a solid class if you stay engaged.
+
+Review 4
+Course: CSCI212
+Sentiment: Negative
+Review Text:
+Imma be so honest here when it comes to his lectures, he literally reads off the slides so BE prepared to do a lot of self-studying on your own. I personally feel like I didn't learn much in this class. I would also note that he is project heavy, with a total of 5 to do over the semester. Good luck!
+
+Review 5
+Course: CSCI212
+Sentiment: Negative
+Review Text:
+Professor Lord is a terrible professor who seems more interested in clocking in and out than actually teaching. He shows no concern for his students, often ignoring their questions or dismissing their concerns. he also has a rude attitude. It's clear he doesn't prioritize his role as an educator. kinda shows how low funded the CS dept is.
+
+Review 6
+Course: CSCI212
+Sentiment: Positive
+Review Text:
+In my opinion, he actually teaches well and his lectures are helpful for the projects. Class is consist of 2 midterms, 5 projects and 1 final. The final is consist of 40 MC questions. Overall there is nothing much to say about this class since its almost similar to CS111 but Java and Object Oriented Programming. Overall, the class is very easy.
+
+Review 7
+Course: CSCI212
+Sentiment: Mixed
+Review Text:
+Professor Kenneth Lord is a great person. In CSCI 212 class, lecture slides are old style and he change the question in each exams every year and make it little hard and he change the projects every year and make a hard as well and in final exam I get 40 MCQ Questions and in final exam he change few questions.
+
+Review 8
+Course: CSCI212
+Sentiment: Mixed
+Review Text:
+Professor Lord was lecture heavy and I had to self study a lot of topics. Although he did explain very well. The exams aren't curved and I could say he grades a bit harsh but nothing crazy, the class is passable. I studied my butt off for his midterm 1 and 2 and his final and got all A's on my projects. His projects can be difficult and unclear.
+
+Review 9
+Course: CSCI212
+Sentiment: Mixed
+Review Text:
+Professor Kenneth Lord is a great person. In CSCI 212 class, lecture slides are old style and he change the question in each exams every year and make it little hard and he change the projects every year and make a hard as well and in final exam I get 40 MCQ Questions and in final exam he change few questions. I had 2 exams and one final & project.
+
+Review 10
+Course: CSCI212
+Sentiment: Mixed
+Review Text:
+Lord is an okay professor. His lectures aren't helpful. I barely attended class and relied on YouTube (BroCode). The class is project-heavy, with hard projects and unclear instructions. Practice exams are nearly identical to actual tests, with one different question, and a similar concept tho. He grades exams himself and harshly. Lord > Steinberg
