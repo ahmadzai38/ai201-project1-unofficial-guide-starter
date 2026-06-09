@@ -13,7 +13,7 @@ CHUNK_OVERLAP = 150
 def clean_text(text: str) -> str:
     """
     Clean extra spaces and blank lines.
-    We are not changing the review wording, just making spacing cleaner.
+    We are not changing the review wording, just cleaning spacing.
     """
     text = text.replace("\r\n", "\n")
     text = re.sub(r"\n{3,}", "\n\n", text)
@@ -22,36 +22,54 @@ def clean_text(text: str) -> str:
 
 
 def get_document_title(text: str) -> str:
-    """
-    Try to find the document title from the top of the file.
-    """
     for line in text.splitlines():
         if line.startswith("Document Title:"):
             return line.replace("Document Title:", "").strip()
     return "Unknown document"
 
 
-def split_by_reviews(text: str) -> list[str]:
+def get_professor_name(title: str) -> str:
     """
-    Split a professor file into separate review blocks.
+    Example title:
+    Student reviews for Professor Nikola Baci
+    """
+    match = re.search(r"Professor\s+(.+)", title)
+    if match:
+        return match.group(1).strip()
+    return "Unknown professor"
 
+
+def normalize_course(course: str) -> str:
+    """
+    Make course labels consistent.
     Example:
-    Review 1 ... Review 2 ... Review 3 ...
-
-    This is better than blindly cutting every 700 characters because
-    each review already has a natural structure.
+    CS340 -> CSCI340
+    CSCI 340 -> CSCI340
     """
-    parts = re.split(r"(?=Review\s+\d+)", text)
+    course = course.strip()
 
-    header = parts[0].strip()
-    reviews = [p.strip() for p in parts[1:] if p.strip()]
+    if course.lower() == "not listed":
+        return "Not listed"
 
-    chunks = []
-    for review in reviews:
-        full_review = f"{header}\n\n{review}".strip()
-        chunks.extend(split_long_text(full_review))
+    match = re.search(r"(?:CSCI|CS)\s*(\d{3})", course, re.IGNORECASE)
+    if match:
+        return f"CSCI{match.group(1)}"
 
-    return chunks
+    return course
+
+
+def extract_course(review_text: str) -> str:
+    match = re.search(r"Course:\s*(.+)", review_text)
+    if match:
+        return normalize_course(match.group(1))
+    return "Not listed"
+
+
+def extract_sentiment(review_text: str) -> str:
+    match = re.search(r"Sentiment:\s*(.+)", review_text)
+    if match:
+        return match.group(1).strip()
+    return "Unknown"
 
 
 def split_long_text(text: str) -> list[str]:
@@ -80,10 +98,28 @@ def split_long_text(text: str) -> list[str]:
     return chunks
 
 
+def split_by_reviews(text: str) -> list[str]:
+    """
+    Split a professor file into separate review blocks.
+    """
+    parts = re.split(r"(?=Review\s+\d+)", text)
+
+    header = parts[0].strip()
+    reviews = [p.strip() for p in parts[1:] if p.strip()]
+
+    chunks = []
+
+    for review in reviews:
+        full_review = f"{header}\n\n{review}".strip()
+        chunks.extend(split_long_text(full_review))
+
+    return chunks
+
+
 def load_and_chunk_documents() -> list[dict]:
     """
     Load every .txt file from the documents folder and turn it into chunks.
-    Each chunk keeps metadata about where it came from.
+    Each chunk keeps metadata: source, title, professor, course, sentiment.
     """
     all_chunks = []
 
@@ -95,16 +131,24 @@ def load_and_chunk_documents() -> list[dict]:
     for file_path in txt_files:
         raw_text = file_path.read_text(encoding="utf-8")
         cleaned_text = clean_text(raw_text)
+
         title = get_document_title(cleaned_text)
+        professor = get_professor_name(title)
 
         chunks = split_by_reviews(cleaned_text)
 
         for i, chunk_text in enumerate(chunks):
+            course = extract_course(chunk_text)
+            sentiment = extract_sentiment(chunk_text)
+
             all_chunks.append(
                 {
                     "id": f"{file_path.stem}_chunk_{i}",
                     "source": file_path.name,
                     "title": title,
+                    "professor": professor,
+                    "course": course,
+                    "sentiment": sentiment,
                     "chunk_index": i,
                     "text": chunk_text,
                 }
@@ -129,6 +173,9 @@ def main():
     for chunk in chunks[:5]:
         print(f"ID: {chunk['id']}")
         print(f"Source: {chunk['source']}")
+        print(f"Professor: {chunk['professor']}")
+        print(f"Course: {chunk['course']}")
+        print(f"Sentiment: {chunk['sentiment']}")
         print(f"Title: {chunk['title']}")
         print("Text:")
         print(chunk["text"][:700])

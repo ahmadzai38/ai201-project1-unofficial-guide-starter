@@ -35,16 +35,16 @@ Review Text:
 He is the best. I never bothered to rate my Professor but this is my final year and last semester and first time giving a review for RMP. I got a B but it is because of my own pentuality. I could had easily gotten A and you could too if you just show up and follow and do the work. Exams are practicals and Projects are fun to do.
 
 Review 6
-Course: CSCI313
+Course: CSCI240
 Sentiment: Negative
 Review Text:
-This is his first time teaching 240 and he can do so much better. It was very disorganized; he has a tendency to rush during lectures. At most he explains if you have any questions after class. For most of the semester he kept saying repeatedly "most of you guys are going to fail" as a student this is discouraging. Good luck, and self-study!
+This is his first time teaching CSCI240 and he can do so much better. It was very disorganized; he has a tendency to rush during lectures. At most he explains if you have any questions after class. For most of the semester he kept saying repeatedly "most of you guys are going to fail" as a student this is discouraging. Good luck, and self-study!
 
 Review 7
-Course: CSCI313
+Course: CSCI240
 Sentiment: Mixed
 Review Text:
-This was his first time teaching CS240 and it wasn't bad but it definitely had a lot of short comings. The way he presented material was understandable but then there would be more difficult topics that he couldn't really explain all that well. Long story short, be ready to self study. He rewards students who participate and engage with his class.
+This was his first time teaching CSCI240 and it wasn't bad but it definitely had a lot of short comings. The way he presented material was understandable but then there would be more difficult topics that he couldn't really explain all that well. Long story short, be ready to self study. He rewards students who participate and engage with his class.
 
 Review 8
 Course: CSCI111
