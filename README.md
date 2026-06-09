@@ -148,6 +148,159 @@ This makes it clear which document chunks were used to generate the answer.
 
 
 ---
+## Sample Chunks
+
+Here are five sample chunks created by the ingestion pipeline. Each chunk keeps the source document, professor, course, sentiment, and review text together.
+
+### Sample Chunk 1
+
+**Source:** `rmp_alex_ryba.txt`
+**Professor:** Alex Ryba
+**Course:** CSCI212
+**Sentiment:** Mixed
+**Chunk summary:** The review says the lectures were heavy but informative, the exams contained syntax, and students should practice coding outside class and not skip lab.
+
+### Sample Chunk 2
+
+**Source:** `rmp_jackson_yeh.txt`
+**Professor:** Jackson Yeh
+**Course:** CSCI240
+**Sentiment:** Positive
+**Chunk summary:** The review says CSCI240 has quizzes, a midterm, a final, and a Logisim project. It also says the exams are open-book and that Professor Yeh gives straightforward examples.
+
+### Sample Chunk 3
+
+**Source:** `rmp_bojana_obrenic.txt`
+**Professor:** Bojana Obrenic
+**Course:** CSCI320
+**Sentiment:** Positive
+**Chunk summary:** The review says students should practice questions from her problem book, attend lectures, and use the problem book to understand what exams look like.
+
+### Sample Chunk 4
+
+**Source:** `rmp_nikola_baci.txt`
+**Professor:** Nikola Baci
+**Course:** CSCI313
+**Sentiment:** Positive
+**Chunk summary:** The review says Baci explains data structures clearly, takes time to answer questions, gives fair exams, and includes LeetCode-style problems.
+
+### Sample Chunk 5
+
+**Source:** `rmp_kenneth_lord.txt`
+**Professor:** Kenneth Lord
+**Course:** CSCI212
+**Sentiment:** Negative
+**Chunk summary:** The review says students should be prepared to self-study because the lectures mostly read from slides and the class has several projects.
+
+---
+
+## Retrieval Test Results
+
+I tested retrieval before generation to check whether the system returned relevant chunks.
+
+### Retrieval Test 1
+
+**Query:** What do students say about Jackson Yeh’s CSCI240 exams and project?
+
+**Top returned chunks:**
+
+1. `rmp_jackson_yeh.txt`, Chunk 2 — mentions online exams/quizzes and the Logisim project.
+2. `rmp_jackson_yeh.txt`, Chunk 7 — mentions 2 exams, 2 quizzes, and a project.
+3. `rmp_jackson_yeh.txt`, Chunk 8 — mentions fair exams and recorded lectures.
+4. `rmp_jackson_yeh.txt`, Chunk 0 — mentions open-book exams, quizzes, midterm/final, and the Logisim project.
+
+**Why the chunks are relevant:**
+All four chunks are from Jackson Yeh’s CSCI240 reviews and directly mention exams, quizzes, or the Logisim project.
+
+### Retrieval Test 2
+
+**Query:** What advice do students give for passing Bojana Obrenic’s CSCI320?
+
+**Top returned chunks:**
+
+1. `rmp_bojana_obrenic.txt`, Chunk 0 — mentions using the problem book and going to lectures.
+2. `rmp_bojana_obrenic.txt`, Chunk 2 — mentions midterm/final structure and passing requirements.
+3. `rmp_bojana_obrenic.txt`, Chunk 7 — mentions grading criteria, Clint videos, and exam preparation.
+4. `rmp_bojana_obrenic.txt`, Chunk 1 — mentions going to class, participating, review materials, and extra credit.
+
+**Why the chunks are relevant:**
+All returned chunks are from Bojana Obrenic’s CSCI320 reviews and include advice about passing, studying, exams, and outside resources.
+
+### Retrieval Test 3
+
+**Query:** What do students say about Nikola Baci’s CSCI313?
+
+**Top returned chunks:**
+
+1. `rmp_nikola_baci.txt`, Chunk 1 — mentions Data Structures, fair exams, LeetCode, and studying.
+2. `rmp_nikola_baci.txt`, Chunk 2 — mentions clear slides, in-class demos, and exam structure.
+3. `rmp_nikola_baci.txt`, Chunk 3 — mentions that he explains well but students need to practice and study.
+4. `rmp_nikola_baci.txt`, Chunk 0 — mentions self-study, Java preparation, surprise quizzes, and exams.
+
+**Why the chunks are relevant:**
+All returned chunks are from Nikola Baci’s CSCI313 reviews and directly describe the course, teaching style, exams, and preparation advice.
+
+---
+
+## Example Responses
+
+### Example Response 1
+
+**Query:** What do students say about Professor Jackson Yeh’s CSCI240 exams and project?
+
+**System response summary:**
+The system said students describe the exams as fair or not too difficult. It mentioned open-book exams, quizzes, the midterm/final, and the Logisim project. It also said the project can be the hardest part but is manageable.
+
+**Sources shown:**
+
+* `rmp_jackson_yeh.txt` (Professor: Jackson Yeh, Course: CSCI240, Chunk: 7)
+* `rmp_jackson_yeh.txt` (Professor: Jackson Yeh, Course: CSCI240, Chunk: 2)
+* `rmp_jackson_yeh.txt` (Professor: Jackson Yeh, Course: CSCI240, Chunk: 8)
+* `rmp_jackson_yeh.txt` (Professor: Jackson Yeh, Course: CSCI240, Chunk: 0)
+
+### Example Response 2
+
+**Query:** What advice do students give for passing Professor Bojana Obrenic’s CSCI320?
+
+**System response summary:**
+The system said students recommend practicing from the problem book, attending lectures, reviewing materials, using outside resources, and paying attention to exams and the grading curve.
+
+**Sources shown:**
+
+* `rmp_bojana_obrenic.txt` (Professor: Bojana Obrenic, Course: CSCI320, Chunk: 0)
+* `rmp_bojana_obrenic.txt` (Professor: Bojana Obrenic, Course: CSCI320, Chunk: 2)
+* `rmp_bojana_obrenic.txt` (Professor: Bojana Obrenic, Course: CSCI320, Chunk: 7)
+* `rmp_bojana_obrenic.txt` (Professor: Bojana Obrenic, Course: CSCI320, Chunk: 1)
+
+### Out-of-Scope Refusal
+
+**Query:** What do the documents say about campus dining at Queens College?
+
+**System response summary:**
+The system correctly said it did not have enough information in the documents to answer. It explained that the documents are about Computer Science professor reviews, not campus dining.
+
+---
+
+## Query Interface
+
+The query interface is a Gradio web app. The user types a question into a textbox and clicks the Ask button. The app returns two outputs: a grounded answer and a list of source chunks used to generate the answer.
+
+### Sample Interaction Transcript
+
+**User:** What do students say about Professor Jackson Yeh’s CSCI240 exams and project?
+
+**System:** Students describe the exams as fair or not too difficult. The answer mentions open-book exams, quizzes, the midterm/final, and the Logisim project. It also notes that the project can be the hardest part but is manageable.
+
+**Sources:**
+
+* `rmp_jackson_yeh.txt` (Professor: Jackson Yeh, Course: CSCI240, Chunk: 7)
+* `rmp_jackson_yeh.txt` (Professor: Jackson Yeh, Course: CSCI240, Chunk: 2)
+* `rmp_jackson_yeh.txt` (Professor: Jackson Yeh, Course: CSCI240, Chunk: 8)
+* `rmp_jackson_yeh.txt` (Professor: Jackson Yeh, Course: CSCI240, Chunk: 0)
+
+
+
+
 
 ## Evaluation Report
 
